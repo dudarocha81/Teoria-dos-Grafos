@@ -1,0 +1,2452 @@
+Matriz de Distâncias (em metros):
+
+PONTO INICIAL - I -> PONTO INICIAL - I: 0.00 m
+PONTO INICIAL - I -> PONTO FINAL - J: 22.20 m
+PONTO INICIAL - I -> LAB 01 - 1: 21.40 m
+PONTO INICIAL - I -> LAB 01 - 2: 15.81 m
+PONTO INICIAL - I -> LAB 02: 17.12 m
+PONTO INICIAL - I -> MESA 01 - 1: 9.85 m
+PONTO INICIAL - I -> MESA 01 - 2: 11.70 m
+PONTO INICIAL - I -> MESA 01 - 3: 12.53 m
+PONTO INICIAL - I -> MESA 01 - 4: 10.82 m
+PONTO INICIAL - I -> MESA 01 - C1 - 1: 11.40 m
+PONTO INICIAL - I -> MESA 01 - C1 - 2: 12.21 m
+PONTO INICIAL - I -> MESA 01 - C2 - 1: 10.00 m
+PONTO INICIAL - I -> MESA 01 - C2 - 2: 9.43 m
+PONTO INICIAL - I -> MESA 01 - C3 - 1: 9.85 m
+PONTO INICIAL - I -> MESA 01 - C3 - 2: 10.77 m
+PONTO INICIAL - I -> MESA 01 - C4 - 1: 13.42 m
+PONTO INICIAL - I -> MESA 01 - C4 - 2: 13.00 m
+PONTO INICIAL - I -> MESA 02 - 1: 29.00 m
+PONTO INICIAL - I -> MESA 02 - 2: 28.32 m
+PONTO INICIAL - I -> MESA 02 - 3: 29.83 m
+PONTO INICIAL - I -> MESA 02 - 4: 30.48 m
+PONTO INICIAL - I -> MESA 02 - C1 - 1: 30.48 m
+PONTO INICIAL - I -> MESA 02 - C1 - 2: 29.83 m
+PONTO INICIAL - I -> MESA 02 - C3 - 1: 28.28 m
+PONTO INICIAL - I -> MESA 02 - C3 - 2: 27.59 m
+PONTO INICIAL - I -> MESA 02 - C4 - 1: 27.66 m
+PONTO INICIAL - I -> MESA 02 - C4 - 2: 28.43 m
+PONTO INICIAL - I -> SALA 01 - 1: 21.38 m
+PONTO INICIAL - I -> SALA 01 - 2: 24.19 m
+PONTO INICIAL - I -> SALA 02 - 1: 2.24 m
+PONTO INICIAL - I -> SALA 02 - 2: 7.28 m
+PONTO INICIAL - I -> B. F: 21.19 m
+PONTO INICIAL - I -> B. M: 20.02 m
+PONTO INICIAL - I -> B. C - 1: 24.04 m
+PONTO INICIAL - I -> B. C - 2: 24.70 m
+PONTO INICIAL - I -> CORREDOR - 1: 12.17 m
+PONTO INICIAL - I -> CORREDOR - 2: 10.20 m
+PONTO INICIAL - I -> ESCADA 1 - 1: 7.28 m
+PONTO INICIAL - I -> ESCADA 1 - 2: 6.32 m
+PONTO INICIAL - I -> ESCADA 2 - 1: 3.61 m
+PONTO INICIAL - I -> ESCADA 2 - 2: 2.83 m
+PONTO INICIAL - I -> ELEVAS - 1: 33.24 m
+PONTO INICIAL - I -> ELEVAS - 2: 31.14 m
+PONTO INICIAL - I -> ELEVAS - 3: 29.70 m
+PONTO INICIAL - I -> ELEVAS - 4: 31.89 m
+PONTO INICIAL - I -> A1 - 1: 16.28 m
+PONTO INICIAL - I -> A1 - 2: 15.30 m
+PONTO INICIAL - I -> A2 - 1: 2.24 m
+PONTO INICIAL - I -> A2 - 2: 3.16 m
+
+PONTO FINAL - J -> PONTO INICIAL - I: 22.20 m
+PONTO FINAL - J -> PONTO FINAL - J: 0.00 m
+PONTO FINAL - J -> LAB 01 - 1: 26.02 m
+PONTO FINAL - J -> LAB 01 - 2: 27.51 m
+PONTO FINAL - J -> LAB 02: 34.00 m
+PONTO FINAL - J -> MESA 01 - 1: 14.56 m
+PONTO FINAL - J -> MESA 01 - 2: 14.14 m
+PONTO FINAL - J -> MESA 01 - 3: 12.17 m
+PONTO FINAL - J -> MESA 01 - 4: 12.65 m
+PONTO FINAL - J -> MESA 01 - C1 - 1: 11.70 m
+PONTO FINAL - J -> MESA 01 - C1 - 2: 11.40 m
+PONTO FINAL - J -> MESA 01 - C2 - 1: 13.00 m
+PONTO FINAL - J -> MESA 01 - C2 - 2: 13.93 m
+PONTO FINAL - J -> MESA 01 - C3 - 1: 14.56 m
+PONTO FINAL - J -> MESA 01 - C3 - 2: 14.32 m
+PONTO FINAL - J -> MESA 01 - C4 - 1: 12.04 m
+PONTO FINAL - J -> MESA 01 - C4 - 2: 13.04 m
+PONTO FINAL - J -> MESA 02 - 1: 33.14 m
+PONTO FINAL - J -> MESA 02 - 2: 32.14 m
+PONTO FINAL - J -> MESA 02 - 3: 32.39 m
+PONTO FINAL - J -> MESA 02 - 4: 33.38 m
+PONTO FINAL - J -> MESA 02 - C1 - 1: 33.38 m
+PONTO FINAL - J -> MESA 02 - C1 - 2: 32.39 m
+PONTO FINAL - J -> MESA 02 - C3 - 1: 33.06 m
+PONTO FINAL - J -> MESA 02 - C3 - 2: 32.06 m
+PONTO FINAL - J -> MESA 02 - C4 - 1: 31.14 m
+PONTO FINAL - J -> MESA 02 - C4 - 2: 31.26 m
+PONTO FINAL - J -> SALA 01 - 1: 9.49 m
+PONTO FINAL - J -> SALA 01 - 2: 3.16 m
+PONTO FINAL - J -> SALA 02 - 1: 21.26 m
+PONTO FINAL - J -> SALA 02 - 2: 17.09 m
+PONTO FINAL - J -> B. F: 20.10 m
+PONTO FINAL - J -> B. M: 12.17 m
+PONTO FINAL - J -> B. C - 1: 7.81 m
+PONTO FINAL - J -> B. C - 2: 6.40 m
+PONTO FINAL - J -> CORREDOR - 1: 16.16 m
+PONTO FINAL - J -> CORREDOR - 2: 17.00 m
+PONTO FINAL - J -> ESCADA 1 - 1: 25.61 m
+PONTO FINAL - J -> ESCADA 1 - 2: 24.84 m
+PONTO FINAL - J -> ESCADA 2 - 1: 22.63 m
+PONTO FINAL - J -> ESCADA 2 - 2: 21.93 m
+PONTO FINAL - J -> ELEVAS - 1: 36.50 m
+PONTO FINAL - J -> ELEVAS - 2: 36.12 m
+PONTO FINAL - J -> ELEVAS - 3: 34.13 m
+PONTO FINAL - J -> ELEVAS - 4: 34.53 m
+PONTO FINAL - J -> A1 - 1: 10.20 m
+PONTO FINAL - J -> A1 - 2: 10.44 m
+PONTO FINAL - J -> A2 - 1: 20.25 m
+PONTO FINAL - J -> A2 - 2: 19.72 m
+
+LAB 01 - 1 -> PONTO INICIAL - I: 21.40 m
+LAB 01 - 1 -> PONTO FINAL - J: 26.02 m
+LAB 01 - 1 -> LAB 01 - 1: 0.00 m
+LAB 01 - 1 -> LAB 01 - 2: 8.00 m
+LAB 01 - 1 -> LAB 02: 15.52 m
+LAB 01 - 1 -> MESA 01 - 1: 25.55 m
+LAB 01 - 1 -> MESA 01 - 2: 27.29 m
+LAB 01 - 1 -> MESA 01 - 3: 26.40 m
+LAB 01 - 1 -> MESA 01 - 4: 24.60 m
+LAB 01 - 1 -> MESA 01 - C1 - 1: 24.17 m
+LAB 01 - 1 -> MESA 01 - C1 - 2: 25.08 m
+LAB 01 - 1 -> MESA 01 - C2 - 1: 23.71 m
+LAB 01 - 1 -> MESA 01 - C2 - 2: 24.19 m
+LAB 01 - 1 -> MESA 01 - C3 - 1: 25.55 m
+LAB 01 - 1 -> MESA 01 - C3 - 2: 26.42 m
+LAB 01 - 1 -> MESA 01 - C4 - 1: 27.31 m
+LAB 01 - 1 -> MESA 01 - C4 - 2: 27.73 m
+LAB 01 - 1 -> MESA 02 - 1: 8.06 m
+LAB 01 - 1 -> MESA 02 - 2: 7.21 m
+LAB 01 - 1 -> MESA 02 - 3: 8.49 m
+LAB 01 - 1 -> MESA 02 - 4: 9.22 m
+LAB 01 - 1 -> MESA 02 - C1 - 1: 9.22 m
+LAB 01 - 1 -> MESA 02 - C1 - 2: 8.49 m
+LAB 01 - 1 -> MESA 02 - C3 - 1: 7.62 m
+LAB 01 - 1 -> MESA 02 - C3 - 2: 6.71 m
+LAB 01 - 1 -> MESA 02 - C4 - 1: 6.40 m
+LAB 01 - 1 -> MESA 02 - C4 - 2: 7.07 m
+LAB 01 - 1 -> SALA 01 - 1: 17.46 m
+LAB 01 - 1 -> SALA 01 - 2: 25.32 m
+LAB 01 - 1 -> SALA 02 - 1: 19.21 m
+LAB 01 - 1 -> SALA 02 - 2: 25.00 m
+LAB 01 - 1 -> B. F: 6.71 m
+LAB 01 - 1 -> B. M: 14.32 m
+LAB 01 - 1 -> B. C - 1: 20.88 m
+LAB 01 - 1 -> B. C - 2: 22.80 m
+LAB 01 - 1 -> CORREDOR - 1: 12.08 m
+LAB 01 - 1 -> CORREDOR - 2: 13.04 m
+LAB 01 - 1 -> ESCADA 1 - 1: 16.16 m
+LAB 01 - 1 -> ESCADA 1 - 2: 16.55 m
+LAB 01 - 1 -> ESCADA 2 - 1: 18.03 m
+LAB 01 - 1 -> ESCADA 2 - 2: 18.60 m
+LAB 01 - 1 -> ELEVAS - 1: 12.21 m
+LAB 01 - 1 -> ELEVAS - 2: 10.77 m
+LAB 01 - 1 -> ELEVAS - 3: 8.94 m
+LAB 01 - 1 -> ELEVAS - 4: 10.63 m
+LAB 01 - 1 -> A1 - 1: 16.03 m
+LAB 01 - 1 -> A1 - 2: 16.12 m
+LAB 01 - 1 -> A2 - 1: 21.93 m
+LAB 01 - 1 -> A2 - 2: 22.63 m
+
+LAB 01 - 2 -> PONTO INICIAL - I: 15.81 m
+LAB 01 - 2 -> PONTO FINAL - J: 27.51 m
+LAB 01 - 2 -> LAB 01 - 1: 8.00 m
+LAB 01 - 2 -> LAB 01 - 2: 0.00 m
+LAB 01 - 2 -> LAB 02: 8.06 m
+LAB 01 - 2 -> MESA 01 - 1: 22.56 m
+LAB 01 - 2 -> MESA 01 - 2: 24.52 m
+LAB 01 - 2 -> MESA 01 - 3: 24.19 m
+LAB 01 - 2 -> MESA 01 - 4: 22.20 m
+LAB 01 - 2 -> MESA 01 - C1 - 1: 22.09 m
+LAB 01 - 2 -> MESA 01 - C1 - 2: 23.09 m
+LAB 01 - 2 -> MESA 01 - C2 - 1: 21.21 m
+LAB 01 - 2 -> MESA 01 - C2 - 2: 21.38 m
+LAB 01 - 2 -> MESA 01 - C3 - 1: 22.56 m
+LAB 01 - 2 -> MESA 01 - C3 - 2: 23.54 m
+LAB 01 - 2 -> MESA 01 - C4 - 1: 25.18 m
+LAB 01 - 2 -> MESA 01 - C4 - 2: 25.32 m
+LAB 01 - 2 -> MESA 02 - 1: 13.89 m
+LAB 01 - 2 -> MESA 02 - 2: 13.42 m
+LAB 01 - 2 -> MESA 02 - 3: 15.23 m
+LAB 01 - 2 -> MESA 02 - 4: 15.65 m
+LAB 01 - 2 -> MESA 02 - C1 - 1: 15.65 m
+LAB 01 - 2 -> MESA 02 - C1 - 2: 15.23 m
+LAB 01 - 2 -> MESA 02 - C3 - 1: 13.04 m
+LAB 01 - 2 -> MESA 02 - C3 - 2: 12.53 m
+LAB 01 - 2 -> MESA 02 - C4 - 1: 13.00 m
+LAB 01 - 2 -> MESA 02 - C4 - 2: 13.93 m
+LAB 01 - 2 -> SALA 01 - 1: 20.81 m
+LAB 01 - 2 -> SALA 01 - 2: 27.73 m
+LAB 01 - 2 -> SALA 02 - 1: 13.89 m
+LAB 01 - 2 -> SALA 02 - 2: 21.19 m
+LAB 01 - 2 -> B. F: 12.53 m
+LAB 01 - 2 -> B. M: 17.80 m
+LAB 01 - 2 -> B. C - 1: 24.41 m
+LAB 01 - 2 -> B. C - 2: 26.08 m
+LAB 01 - 2 -> CORREDOR - 1: 11.40 m
+LAB 01 - 2 -> CORREDOR - 2: 11.05 m
+LAB 01 - 2 -> ESCADA 1 - 1: 9.22 m
+LAB 01 - 2 -> ESCADA 1 - 2: 9.90 m
+LAB 01 - 2 -> ESCADA 2 - 1: 12.21 m
+LAB 01 - 2 -> ESCADA 2 - 2: 13.04 m
+LAB 01 - 2 -> ELEVAS - 1: 18.03 m
+LAB 01 - 2 -> ELEVAS - 2: 15.62 m
+LAB 01 - 2 -> ELEVAS - 3: 14.42 m
+LAB 01 - 2 -> ELEVAS - 4: 17.00 m
+LAB 01 - 2 -> A1 - 1: 17.46 m
+LAB 01 - 2 -> A1 - 2: 17.09 m
+LAB 01 - 2 -> A2 - 1: 17.00 m
+LAB 01 - 2 -> A2 - 2: 17.89 m
+
+LAB 02 -> PONTO INICIAL - I: 17.12 m
+LAB 02 -> PONTO FINAL - J: 34.00 m
+LAB 02 -> LAB 01 - 1: 15.52 m
+LAB 02 -> LAB 01 - 2: 8.06 m
+LAB 02 -> LAB 02: 0.00 m
+LAB 02 -> MESA 01 - 1: 26.08 m
+LAB 02 -> MESA 01 - 2: 28.07 m
+LAB 02 -> MESA 01 - 3: 28.28 m
+LAB 02 -> MESA 01 - 4: 26.31 m
+LAB 02 -> MESA 01 - C1 - 1: 26.48 m
+LAB 02 -> MESA 01 - C1 - 2: 27.46 m
+LAB 02 -> MESA 01 - C2 - 1: 25.32 m
+LAB 02 -> MESA 01 - C2 - 2: 25.18 m
+LAB 02 -> MESA 01 - C3 - 1: 26.08 m
+LAB 02 -> MESA 01 - C3 - 2: 27.07 m
+LAB 02 -> MESA 01 - C4 - 1: 29.27 m
+LAB 02 -> MESA 01 - C4 - 2: 29.15 m
+LAB 02 -> MESA 02 - 1: 19.24 m
+LAB 02 -> MESA 02 - 2: 19.10 m
+LAB 02 -> MESA 02 - 3: 21.10 m
+LAB 02 -> MESA 02 - 4: 21.21 m
+LAB 02 -> MESA 02 - C1 - 1: 21.21 m
+LAB 02 -> MESA 02 - C1 - 2: 21.10 m
+LAB 02 -> MESA 02 - C3 - 1: 18.25 m
+LAB 02 -> MESA 02 - C3 - 2: 18.11 m
+LAB 02 -> MESA 02 - C4 - 1: 19.03 m
+LAB 02 -> MESA 02 - C4 - 2: 20.02 m
+LAB 02 -> SALA 01 - 1: 28.32 m
+LAB 02 -> SALA 01 - 2: 34.67 m
+LAB 02 -> SALA 02 - 1: 16.00 m
+LAB 02 -> SALA 02 - 2: 24.00 m
+LAB 02 -> B. F: 20.59 m
+LAB 02 -> B. M: 25.46 m
+LAB 02 -> B. C - 1: 31.89 m
+LAB 02 -> B. C - 2: 33.42 m
+LAB 02 -> CORREDOR - 1: 18.03 m
+LAB 02 -> CORREDOR - 2: 17.00 m
+LAB 02 -> ESCADA 1 - 1: 10.00 m
+LAB 02 -> ESCADA 1 - 2: 11.00 m
+LAB 02 -> ESCADA 2 - 1: 14.00 m
+LAB 02 -> ESCADA 2 - 2: 15.00 m
+LAB 02 -> ELEVAS - 1: 22.80 m
+LAB 02 -> ELEVAS - 2: 19.92 m
+LAB 02 -> ELEVAS - 3: 19.42 m
+LAB 02 -> ELEVAS - 4: 22.36 m
+LAB 02 -> A1 - 1: 24.41 m
+LAB 02 -> A1 - 2: 23.85 m
+LAB 02 -> A2 - 1: 19.03 m
+LAB 02 -> A2 - 2: 20.02 m
+
+MESA 01 - 1 -> PONTO INICIAL - I: 9.85 m
+MESA 01 - 1 -> PONTO FINAL - J: 14.56 m
+MESA 01 - 1 -> LAB 01 - 1: 25.55 m
+MESA 01 - 1 -> LAB 01 - 2: 22.56 m
+MESA 01 - 1 -> LAB 02: 26.08 m
+MESA 01 - 1 -> MESA 01 - 1: 0.00 m
+MESA 01 - 1 -> MESA 01 - 2: 2.00 m
+MESA 01 - 1 -> MESA 01 - 3: 2.83 m
+MESA 01 - 1 -> MESA 01 - 4: 2.00 m
+MESA 01 - 1 -> MESA 01 - C1 - 1: 3.00 m
+MESA 01 - 1 -> MESA 01 - C1 - 2: 3.16 m
+MESA 01 - 1 -> MESA 01 - C2 - 1: 2.24 m
+MESA 01 - 1 -> MESA 01 - C2 - 2: 1.41 m
+MESA 01 - 1 -> MESA 01 - C3 - 1: 0.00 m
+MESA 01 - 1 -> MESA 01 - C3 - 2: 1.00 m
+MESA 01 - 1 -> MESA 01 - C4 - 1: 3.61 m
+MESA 01 - 1 -> MESA 01 - C4 - 2: 3.16 m
+MESA 01 - 1 -> MESA 02 - 1: 33.62 m
+MESA 01 - 1 -> MESA 02 - 2: 32.76 m
+MESA 01 - 1 -> MESA 02 - 3: 33.84 m
+MESA 01 - 1 -> MESA 02 - 4: 34.67 m
+MESA 01 - 1 -> MESA 02 - C1 - 1: 34.67 m
+MESA 01 - 1 -> MESA 02 - C1 - 2: 33.84 m
+MESA 01 - 1 -> MESA 02 - C3 - 1: 33.12 m
+MESA 01 - 1 -> MESA 02 - C3 - 2: 32.25 m
+MESA 01 - 1 -> MESA 02 - C4 - 1: 31.91 m
+MESA 01 - 1 -> MESA 02 - C4 - 2: 32.45 m
+MESA 01 - 1 -> SALA 01 - 1: 17.72 m
+MESA 01 - 1 -> SALA 01 - 2: 17.26 m
+MESA 01 - 1 -> SALA 02 - 1: 10.20 m
+MESA 01 - 1 -> SALA 02 - 2: 2.83 m
+MESA 01 - 1 -> B. F: 22.63 m
+MESA 01 - 1 -> B. M: 17.89 m
+MESA 01 - 1 -> B. C - 1: 19.10 m
+MESA 01 - 1 -> B. C - 2: 19.00 m
+MESA 01 - 1 -> CORREDOR - 1: 13.60 m
+MESA 01 - 1 -> CORREDOR - 2: 12.53 m
+MESA 01 - 1 -> ESCADA 1 - 1: 16.12 m
+MESA 01 - 1 -> ESCADA 1 - 2: 15.13 m
+MESA 01 - 1 -> ESCADA 2 - 1: 12.17 m
+MESA 01 - 1 -> ESCADA 2 - 2: 11.18 m
+MESA 01 - 1 -> ELEVAS - 1: 37.74 m
+MESA 01 - 1 -> ELEVAS - 2: 36.24 m
+MESA 01 - 1 -> ELEVAS - 3: 34.48 m
+MESA 01 - 1 -> ELEVAS - 4: 36.06 m
+MESA 01 - 1 -> A1 - 1: 13.42 m
+MESA 01 - 1 -> A1 - 2: 12.53 m
+MESA 01 - 1 -> A2 - 1: 7.62 m
+MESA 01 - 1 -> A2 - 2: 6.71 m
+
+MESA 01 - 2 -> PONTO INICIAL - I: 11.70 m
+MESA 01 - 2 -> PONTO FINAL - J: 14.14 m
+MESA 01 - 2 -> LAB 01 - 1: 27.29 m
+MESA 01 - 2 -> LAB 01 - 2: 24.52 m
+MESA 01 - 2 -> LAB 02: 28.07 m
+MESA 01 - 2 -> MESA 01 - 1: 2.00 m
+MESA 01 - 2 -> MESA 01 - 2: 0.00 m
+MESA 01 - 2 -> MESA 01 - 3: 2.00 m
+MESA 01 - 2 -> MESA 01 - 4: 2.83 m
+MESA 01 - 2 -> MESA 01 - C1 - 1: 3.61 m
+MESA 01 - 2 -> MESA 01 - C1 - 2: 3.16 m
+MESA 01 - 2 -> MESA 01 - C2 - 1: 3.61 m
+MESA 01 - 2 -> MESA 01 - C2 - 2: 3.16 m
+MESA 01 - 2 -> MESA 01 - C3 - 1: 2.00 m
+MESA 01 - 2 -> MESA 01 - C3 - 2: 1.00 m
+MESA 01 - 2 -> MESA 01 - C4 - 1: 2.24 m
+MESA 01 - 2 -> MESA 01 - C4 - 2: 1.41 m
+MESA 01 - 2 -> MESA 02 - 1: 35.36 m
+MESA 01 - 2 -> MESA 02 - 2: 34.48 m
+MESA 01 - 2 -> MESA 02 - 3: 35.51 m
+MESA 01 - 2 -> MESA 02 - 4: 36.36 m
+MESA 01 - 2 -> MESA 02 - C1 - 1: 36.36 m
+MESA 01 - 2 -> MESA 02 - C1 - 2: 35.51 m
+MESA 01 - 2 -> MESA 02 - C3 - 1: 34.89 m
+MESA 01 - 2 -> MESA 02 - C3 - 2: 34.00 m
+MESA 01 - 2 -> MESA 02 - C4 - 1: 33.62 m
+MESA 01 - 2 -> MESA 02 - C4 - 2: 34.13 m
+MESA 01 - 2 -> SALA 01 - 1: 18.38 m
+MESA 01 - 2 -> SALA 01 - 2: 17.03 m
+MESA 01 - 2 -> SALA 02 - 1: 12.17 m
+MESA 01 - 2 -> SALA 02 - 2: 4.47 m
+MESA 01 - 2 -> B. F: 24.08 m
+MESA 01 - 2 -> B. M: 18.87 m
+MESA 01 - 2 -> B. C - 1: 19.42 m
+MESA 01 - 2 -> B. C - 2: 19.10 m
+MESA 01 - 2 -> CORREDOR - 1: 15.26 m
+MESA 01 - 2 -> CORREDOR - 2: 14.32 m
+MESA 01 - 2 -> ESCADA 1 - 1: 18.11 m
+MESA 01 - 2 -> ESCADA 1 - 2: 17.12 m
+MESA 01 - 2 -> ESCADA 2 - 1: 14.14 m
+MESA 01 - 2 -> ESCADA 2 - 2: 13.15 m
+MESA 01 - 2 -> ELEVAS - 1: 39.45 m
+MESA 01 - 2 -> ELEVAS - 2: 38.01 m
+MESA 01 - 2 -> ELEVAS - 3: 36.24 m
+MESA 01 - 2 -> ELEVAS - 4: 37.74 m
+MESA 01 - 2 -> A1 - 1: 14.42 m
+MESA 01 - 2 -> A1 - 2: 13.60 m
+MESA 01 - 2 -> A2 - 1: 9.49 m
+MESA 01 - 2 -> A2 - 2: 8.54 m
+
+MESA 01 - 3 -> PONTO INICIAL - I: 12.53 m
+MESA 01 - 3 -> PONTO FINAL - J: 12.17 m
+MESA 01 - 3 -> LAB 01 - 1: 26.40 m
+MESA 01 - 3 -> LAB 01 - 2: 24.19 m
+MESA 01 - 3 -> LAB 02: 28.28 m
+MESA 01 - 3 -> MESA 01 - 1: 2.83 m
+MESA 01 - 3 -> MESA 01 - 2: 2.00 m
+MESA 01 - 3 -> MESA 01 - 3: 0.00 m
+MESA 01 - 3 -> MESA 01 - 4: 2.00 m
+MESA 01 - 3 -> MESA 01 - C1 - 1: 2.24 m
+MESA 01 - 3 -> MESA 01 - C1 - 2: 1.41 m
+MESA 01 - 3 -> MESA 01 - C2 - 1: 3.00 m
+MESA 01 - 3 -> MESA 01 - C2 - 2: 3.16 m
+MESA 01 - 3 -> MESA 01 - C3 - 1: 2.83 m
+MESA 01 - 3 -> MESA 01 - C3 - 2: 2.24 m
+MESA 01 - 3 -> MESA 01 - C4 - 1: 1.00 m
+MESA 01 - 3 -> MESA 01 - C4 - 2: 1.41 m
+MESA 01 - 3 -> MESA 02 - 1: 34.44 m
+MESA 01 - 3 -> MESA 02 - 2: 33.54 m
+MESA 01 - 3 -> MESA 02 - 3: 34.48 m
+MESA 01 - 3 -> MESA 02 - 4: 35.36 m
+MESA 01 - 3 -> MESA 02 - C1 - 1: 35.36 m
+MESA 01 - 3 -> MESA 02 - C1 - 2: 34.48 m
+MESA 01 - 3 -> MESA 02 - C3 - 1: 34.01 m
+MESA 01 - 3 -> MESA 02 - C3 - 2: 33.11 m
+MESA 01 - 3 -> MESA 02 - C4 - 1: 32.65 m
+MESA 01 - 3 -> MESA 02 - C4 - 2: 33.12 m
+MESA 01 - 3 -> SALA 01 - 1: 16.55 m
+MESA 01 - 3 -> SALA 01 - 2: 15.03 m
+MESA 01 - 3 -> SALA 02 - 1: 12.65 m
+MESA 01 - 3 -> SALA 02 - 2: 5.66 m
+MESA 01 - 3 -> B. F: 22.80 m
+MESA 01 - 3 -> B. M: 17.20 m
+MESA 01 - 3 -> B. C - 1: 17.46 m
+MESA 01 - 3 -> B. C - 2: 17.12 m
+MESA 01 - 3 -> CORREDOR - 1: 14.32 m
+MESA 01 - 3 -> CORREDOR - 2: 13.60 m
+MESA 01 - 3 -> ESCADA 1 - 1: 18.44 m
+MESA 01 - 3 -> ESCADA 1 - 2: 17.46 m
+MESA 01 - 3 -> ESCADA 2 - 1: 14.56 m
+MESA 01 - 3 -> ESCADA 2 - 2: 13.60 m
+MESA 01 - 3 -> ELEVAS - 1: 38.47 m
+MESA 01 - 3 -> ELEVAS - 2: 37.16 m
+MESA 01 - 3 -> ELEVAS - 3: 35.34 m
+MESA 01 - 3 -> ELEVAS - 4: 36.72 m
+MESA 01 - 3 -> A1 - 1: 12.81 m
+MESA 01 - 3 -> A1 - 2: 12.04 m
+MESA 01 - 3 -> A2 - 1: 10.30 m
+MESA 01 - 3 -> A2 - 2: 9.43 m
+
+MESA 01 - 4 -> PONTO INICIAL - I: 10.82 m
+MESA 01 - 4 -> PONTO FINAL - J: 12.65 m
+MESA 01 - 4 -> LAB 01 - 1: 24.60 m
+MESA 01 - 4 -> LAB 01 - 2: 22.20 m
+MESA 01 - 4 -> LAB 02: 26.31 m
+MESA 01 - 4 -> MESA 01 - 1: 2.00 m
+MESA 01 - 4 -> MESA 01 - 2: 2.83 m
+MESA 01 - 4 -> MESA 01 - 3: 2.00 m
+MESA 01 - 4 -> MESA 01 - 4: 0.00 m
+MESA 01 - 4 -> MESA 01 - C1 - 1: 1.00 m
+MESA 01 - 4 -> MESA 01 - C1 - 2: 1.41 m
+MESA 01 - 4 -> MESA 01 - C2 - 1: 1.00 m
+MESA 01 - 4 -> MESA 01 - C2 - 2: 1.41 m
+MESA 01 - 4 -> MESA 01 - C3 - 1: 2.00 m
+MESA 01 - 4 -> MESA 01 - C3 - 2: 2.24 m
+MESA 01 - 4 -> MESA 01 - C4 - 1: 3.00 m
+MESA 01 - 4 -> MESA 01 - C4 - 2: 3.16 m
+MESA 01 - 4 -> MESA 02 - 1: 32.65 m
+MESA 01 - 4 -> MESA 02 - 2: 31.76 m
+MESA 01 - 4 -> MESA 02 - 3: 32.76 m
+MESA 01 - 4 -> MESA 02 - 4: 33.62 m
+MESA 01 - 4 -> MESA 02 - C1 - 1: 33.62 m
+MESA 01 - 4 -> MESA 02 - C1 - 2: 32.76 m
+MESA 01 - 4 -> MESA 02 - C3 - 1: 32.20 m
+MESA 01 - 4 -> MESA 02 - C3 - 2: 31.30 m
+MESA 01 - 4 -> MESA 02 - C4 - 1: 30.89 m
+MESA 01 - 4 -> MESA 02 - C4 - 2: 31.38 m
+MESA 01 - 4 -> SALA 01 - 1: 15.81 m
+MESA 01 - 4 -> SALA 01 - 2: 15.30 m
+MESA 01 - 4 -> SALA 02 - 1: 10.77 m
+MESA 01 - 4 -> SALA 02 - 2: 4.47 m
+MESA 01 - 4 -> B. F: 21.26 m
+MESA 01 - 4 -> B. M: 16.12 m
+MESA 01 - 4 -> B. C - 1: 17.12 m
+MESA 01 - 4 -> B. C - 2: 17.00 m
+MESA 01 - 4 -> CORREDOR - 1: 12.53 m
+MESA 01 - 4 -> CORREDOR - 2: 11.70 m
+MESA 01 - 4 -> ESCADA 1 - 1: 16.49 m
+MESA 01 - 4 -> ESCADA 1 - 2: 15.52 m
+MESA 01 - 4 -> ESCADA 2 - 1: 12.65 m
+MESA 01 - 4 -> ESCADA 2 - 2: 11.70 m
+MESA 01 - 4 -> ELEVAS - 1: 36.72 m
+MESA 01 - 4 -> ELEVAS - 2: 35.34 m
+MESA 01 - 4 -> ELEVAS - 3: 33.54 m
+MESA 01 - 4 -> ELEVAS - 4: 34.99 m
+MESA 01 - 4 -> A1 - 1: 11.66 m
+MESA 01 - 4 -> A1 - 2: 10.82 m
+MESA 01 - 4 -> A2 - 1: 8.60 m
+MESA 01 - 4 -> A2 - 2: 7.81 m
+
+MESA 01 - C1 - 1 -> PONTO INICIAL - I: 11.40 m
+MESA 01 - C1 - 1 -> PONTO FINAL - J: 11.70 m
+MESA 01 - C1 - 1 -> LAB 01 - 1: 24.17 m
+MESA 01 - C1 - 1 -> LAB 01 - 2: 22.09 m
+MESA 01 - C1 - 1 -> LAB 02: 26.48 m
+MESA 01 - C1 - 1 -> MESA 01 - 1: 3.00 m
+MESA 01 - C1 - 1 -> MESA 01 - 2: 3.61 m
+MESA 01 - C1 - 1 -> MESA 01 - 3: 2.24 m
+MESA 01 - C1 - 1 -> MESA 01 - 4: 1.00 m
+MESA 01 - C1 - 1 -> MESA 01 - C1 - 1: 0.00 m
+MESA 01 - C1 - 1 -> MESA 01 - C1 - 2: 1.00 m
+MESA 01 - C1 - 1 -> MESA 01 - C2 - 1: 1.41 m
+MESA 01 - C1 - 1 -> MESA 01 - C2 - 2: 2.24 m
+MESA 01 - C1 - 1 -> MESA 01 - C3 - 1: 3.00 m
+MESA 01 - C1 - 1 -> MESA 01 - C3 - 2: 3.16 m
+MESA 01 - C1 - 1 -> MESA 01 - C4 - 1: 3.16 m
+MESA 01 - C1 - 1 -> MESA 01 - C4 - 2: 3.61 m
+MESA 01 - C1 - 1 -> MESA 02 - 1: 32.20 m
+MESA 01 - C1 - 1 -> MESA 02 - 2: 31.30 m
+MESA 01 - C1 - 1 -> MESA 02 - 3: 32.25 m
+MESA 01 - C1 - 1 -> MESA 02 - 4: 33.12 m
+MESA 01 - C1 - 1 -> MESA 02 - C1 - 1: 33.12 m
+MESA 01 - C1 - 1 -> MESA 02 - C1 - 2: 32.25 m
+MESA 01 - C1 - 1 -> MESA 02 - C3 - 1: 31.78 m
+MESA 01 - C1 - 1 -> MESA 02 - C3 - 2: 30.87 m
+MESA 01 - C1 - 1 -> MESA 02 - C4 - 1: 30.41 m
+MESA 01 - C1 - 1 -> MESA 02 - C4 - 2: 30.89 m
+MESA 01 - C1 - 1 -> SALA 01 - 1: 14.87 m
+MESA 01 - C1 - 1 -> SALA 01 - 2: 14.32 m
+MESA 01 - C1 - 1 -> SALA 02 - 1: 11.18 m
+MESA 01 - C1 - 1 -> SALA 02 - 2: 5.39 m
+MESA 01 - C1 - 1 -> B. F: 20.62 m
+MESA 01 - C1 - 1 -> B. M: 15.26 m
+MESA 01 - C1 - 1 -> B. C - 1: 16.12 m
+MESA 01 - C1 - 1 -> B. C - 2: 16.00 m
+MESA 01 - C1 - 1 -> CORREDOR - 1: 12.08 m
+MESA 01 - C1 - 1 -> CORREDOR - 2: 11.40 m
+MESA 01 - C1 - 1 -> ESCADA 1 - 1: 16.76 m
+MESA 01 - C1 - 1 -> ESCADA 1 - 2: 15.81 m
+MESA 01 - C1 - 1 -> ESCADA 2 - 1: 13.00 m
+MESA 01 - C1 - 1 -> ESCADA 2 - 2: 12.08 m
+MESA 01 - C1 - 1 -> ELEVAS - 1: 36.24 m
+MESA 01 - C1 - 1 -> ELEVAS - 2: 34.93 m
+MESA 01 - C1 - 1 -> ELEVAS - 3: 33.11 m
+MESA 01 - C1 - 1 -> ELEVAS - 4: 34.48 m
+MESA 01 - C1 - 1 -> A1 - 1: 10.82 m
+MESA 01 - C1 - 1 -> A1 - 2: 10.00 m
+MESA 01 - C1 - 1 -> A2 - 1: 9.22 m
+MESA 01 - C1 - 1 -> A2 - 2: 8.49 m
+
+MESA 01 - C1 - 2 -> PONTO INICIAL - I: 12.21 m
+MESA 01 - C1 - 2 -> PONTO FINAL - J: 11.40 m
+MESA 01 - C1 - 2 -> LAB 01 - 1: 25.08 m
+MESA 01 - C1 - 2 -> LAB 01 - 2: 23.09 m
+MESA 01 - C1 - 2 -> LAB 02: 27.46 m
+MESA 01 - C1 - 2 -> MESA 01 - 1: 3.16 m
+MESA 01 - C1 - 2 -> MESA 01 - 2: 3.16 m
+MESA 01 - C1 - 2 -> MESA 01 - 3: 1.41 m
+MESA 01 - C1 - 2 -> MESA 01 - 4: 1.41 m
+MESA 01 - C1 - 2 -> MESA 01 - C1 - 1: 1.00 m
+MESA 01 - C1 - 2 -> MESA 01 - C1 - 2: 0.00 m
+MESA 01 - C1 - 2 -> MESA 01 - C2 - 1: 2.24 m
+MESA 01 - C1 - 2 -> MESA 01 - C2 - 2: 2.83 m
+MESA 01 - C1 - 2 -> MESA 01 - C3 - 1: 3.16 m
+MESA 01 - C1 - 2 -> MESA 01 - C3 - 2: 3.00 m
+MESA 01 - C1 - 2 -> MESA 01 - C4 - 1: 2.24 m
+MESA 01 - C1 - 2 -> MESA 01 - C4 - 2: 2.83 m
+MESA 01 - C1 - 2 -> MESA 02 - 1: 33.11 m
+MESA 01 - C1 - 2 -> MESA 02 - 2: 32.20 m
+MESA 01 - C1 - 2 -> MESA 02 - 3: 33.12 m
+MESA 01 - C1 - 2 -> MESA 02 - 4: 34.00 m
+MESA 01 - C1 - 2 -> MESA 02 - C1 - 1: 34.00 m
+MESA 01 - C1 - 2 -> MESA 02 - C1 - 2: 33.12 m
+MESA 01 - C1 - 2 -> MESA 02 - C3 - 1: 32.70 m
+MESA 01 - C1 - 2 -> MESA 02 - C3 - 2: 31.78 m
+MESA 01 - C1 - 2 -> MESA 02 - C4 - 1: 31.30 m
+MESA 01 - C1 - 2 -> MESA 02 - C4 - 2: 31.76 m
+MESA 01 - C1 - 2 -> SALA 01 - 1: 15.23 m
+MESA 01 - C1 - 2 -> SALA 01 - 2: 14.14 m
+MESA 01 - C1 - 2 -> SALA 02 - 1: 12.08 m
+MESA 01 - C1 - 2 -> SALA 02 - 2: 5.83 m
+MESA 01 - C1 - 2 -> B. F: 21.40 m
+MESA 01 - C1 - 2 -> B. M: 15.81 m
+MESA 01 - C1 - 2 -> B. C - 1: 16.28 m
+MESA 01 - C1 - 2 -> B. C - 2: 16.03 m
+MESA 01 - C1 - 2 -> CORREDOR - 1: 13.00 m
+MESA 01 - C1 - 2 -> CORREDOR - 2: 12.37 m
+MESA 01 - C1 - 2 -> ESCADA 1 - 1: 17.72 m
+MESA 01 - C1 - 2 -> ESCADA 1 - 2: 16.76 m
+MESA 01 - C1 - 2 -> ESCADA 2 - 1: 13.93 m
+MESA 01 - C1 - 2 -> ESCADA 2 - 2: 13.00 m
+MESA 01 - C1 - 2 -> ELEVAS - 1: 37.12 m
+MESA 01 - C1 - 2 -> ELEVAS - 2: 35.85 m
+MESA 01 - C1 - 2 -> ELEVAS - 3: 34.01 m
+MESA 01 - C1 - 2 -> ELEVAS - 4: 35.36 m
+MESA 01 - C1 - 2 -> A1 - 1: 11.40 m
+MESA 01 - C1 - 2 -> A1 - 2: 10.63 m
+MESA 01 - C1 - 2 -> A2 - 1: 10.00 m
+MESA 01 - C1 - 2 -> A2 - 2: 9.22 m
+
+MESA 01 - C2 - 1 -> PONTO INICIAL - I: 10.00 m
+MESA 01 - C2 - 1 -> PONTO FINAL - J: 13.00 m
+MESA 01 - C2 - 1 -> LAB 01 - 1: 23.71 m
+MESA 01 - C2 - 1 -> LAB 01 - 2: 21.21 m
+MESA 01 - C2 - 1 -> LAB 02: 25.32 m
+MESA 01 - C2 - 1 -> MESA 01 - 1: 2.24 m
+MESA 01 - C2 - 1 -> MESA 01 - 2: 3.61 m
+MESA 01 - C2 - 1 -> MESA 01 - 3: 3.00 m
+MESA 01 - C2 - 1 -> MESA 01 - 4: 1.00 m
+MESA 01 - C2 - 1 -> MESA 01 - C1 - 1: 1.41 m
+MESA 01 - C2 - 1 -> MESA 01 - C1 - 2: 2.24 m
+MESA 01 - C2 - 1 -> MESA 01 - C2 - 1: 0.00 m
+MESA 01 - C2 - 1 -> MESA 01 - C2 - 2: 1.00 m
+MESA 01 - C2 - 1 -> MESA 01 - C3 - 1: 2.24 m
+MESA 01 - C2 - 1 -> MESA 01 - C3 - 2: 2.83 m
+MESA 01 - C2 - 1 -> MESA 01 - C4 - 1: 4.00 m
+MESA 01 - C2 - 1 -> MESA 01 - C4 - 2: 4.12 m
+MESA 01 - C2 - 1 -> MESA 02 - 1: 31.76 m
+MESA 01 - C2 - 1 -> MESA 02 - 2: 30.89 m
+MESA 01 - C2 - 1 -> MESA 02 - 3: 31.91 m
+MESA 01 - C2 - 1 -> MESA 02 - 4: 32.76 m
+MESA 01 - C2 - 1 -> MESA 02 - C1 - 1: 32.76 m
+MESA 01 - C2 - 1 -> MESA 02 - C1 - 2: 31.91 m
+MESA 01 - C2 - 1 -> MESA 02 - C3 - 1: 31.30 m
+MESA 01 - C2 - 1 -> MESA 02 - C3 - 2: 30.41 m
+MESA 01 - C2 - 1 -> MESA 02 - C4 - 1: 30.02 m
+MESA 01 - C2 - 1 -> MESA 02 - C4 - 2: 30.53 m
+MESA 01 - C2 - 1 -> SALA 01 - 1: 15.52 m
+MESA 01 - C2 - 1 -> SALA 01 - 2: 15.52 m
+MESA 01 - C2 - 1 -> SALA 02 - 1: 9.85 m
+MESA 01 - C2 - 1 -> SALA 02 - 2: 4.12 m
+MESA 01 - C2 - 1 -> B. F: 20.52 m
+MESA 01 - C2 - 1 -> B. M: 15.65 m
+MESA 01 - C2 - 1 -> B. C - 1: 17.03 m
+MESA 01 - C2 - 1 -> B. C - 2: 17.03 m
+MESA 01 - C2 - 1 -> CORREDOR - 1: 11.66 m
+MESA 01 - C2 - 1 -> CORREDOR - 2: 10.77 m
+MESA 01 - C2 - 1 -> ESCADA 1 - 1: 15.52 m
+MESA 01 - C2 - 1 -> ESCADA 1 - 2: 14.56 m
+MESA 01 - C2 - 1 -> ESCADA 2 - 1: 11.70 m
+MESA 01 - C2 - 1 -> ESCADA 2 - 2: 10.77 m
+MESA 01 - C2 - 1 -> ELEVAS - 1: 35.85 m
+MESA 01 - C2 - 1 -> ELEVAS - 2: 34.44 m
+MESA 01 - C2 - 1 -> ELEVAS - 3: 32.65 m
+MESA 01 - C2 - 1 -> ELEVAS - 4: 34.13 m
+MESA 01 - C2 - 1 -> A1 - 1: 11.18 m
+MESA 01 - C2 - 1 -> A1 - 2: 10.30 m
+MESA 01 - C2 - 1 -> A2 - 1: 7.81 m
+MESA 01 - C2 - 1 -> A2 - 2: 7.07 m
+
+MESA 01 - C2 - 2 -> PONTO INICIAL - I: 9.43 m
+MESA 01 - C2 - 2 -> PONTO FINAL - J: 13.93 m
+MESA 01 - C2 - 2 -> LAB 01 - 1: 24.19 m
+MESA 01 - C2 - 2 -> LAB 01 - 2: 21.38 m
+MESA 01 - C2 - 2 -> LAB 02: 25.18 m
+MESA 01 - C2 - 2 -> MESA 01 - 1: 1.41 m
+MESA 01 - C2 - 2 -> MESA 01 - 2: 3.16 m
+MESA 01 - C2 - 2 -> MESA 01 - 3: 3.16 m
+MESA 01 - C2 - 2 -> MESA 01 - 4: 1.41 m
+MESA 01 - C2 - 2 -> MESA 01 - C1 - 1: 2.24 m
+MESA 01 - C2 - 2 -> MESA 01 - C1 - 2: 2.83 m
+MESA 01 - C2 - 2 -> MESA 01 - C2 - 1: 1.00 m
+MESA 01 - C2 - 2 -> MESA 01 - C2 - 2: 0.00 m
+MESA 01 - C2 - 2 -> MESA 01 - C3 - 1: 1.41 m
+MESA 01 - C2 - 2 -> MESA 01 - C3 - 2: 2.24 m
+MESA 01 - C2 - 2 -> MESA 01 - C4 - 1: 4.12 m
+MESA 01 - C2 - 2 -> MESA 01 - C4 - 2: 4.00 m
+MESA 01 - C2 - 2 -> MESA 02 - 1: 32.25 m
+MESA 01 - C2 - 2 -> MESA 02 - 2: 31.38 m
+MESA 01 - C2 - 2 -> MESA 02 - 3: 32.45 m
+MESA 01 - C2 - 2 -> MESA 02 - 4: 33.29 m
+MESA 01 - C2 - 2 -> MESA 02 - C1 - 1: 33.29 m
+MESA 01 - C2 - 2 -> MESA 02 - C1 - 2: 32.45 m
+MESA 01 - C2 - 2 -> MESA 02 - C3 - 1: 31.76 m
+MESA 01 - C2 - 2 -> MESA 02 - C3 - 2: 30.89 m
+MESA 01 - C2 - 2 -> MESA 02 - C4 - 1: 30.53 m
+MESA 01 - C2 - 2 -> MESA 02 - C4 - 2: 31.06 m
+MESA 01 - C2 - 2 -> SALA 01 - 1: 16.49 m
+MESA 01 - C2 - 2 -> SALA 01 - 2: 16.49 m
+MESA 01 - C2 - 2 -> SALA 02 - 1: 9.49 m
+MESA 01 - C2 - 2 -> SALA 02 - 2: 3.16 m
+MESA 01 - C2 - 2 -> B. F: 21.21 m
+MESA 01 - C2 - 2 -> B. M: 16.55 m
+MESA 01 - C2 - 2 -> B. C - 1: 18.03 m
+MESA 01 - C2 - 2 -> B. C - 2: 18.03 m
+MESA 01 - C2 - 2 -> CORREDOR - 1: 12.21 m
+MESA 01 - C2 - 2 -> CORREDOR - 2: 11.18 m
+MESA 01 - C2 - 2 -> ESCADA 1 - 1: 15.30 m
+MESA 01 - C2 - 2 -> ESCADA 1 - 2: 14.32 m
+MESA 01 - C2 - 2 -> ESCADA 2 - 1: 11.40 m
+MESA 01 - C2 - 2 -> ESCADA 2 - 2: 10.44 m
+MESA 01 - C2 - 2 -> ELEVAS - 1: 36.36 m
+MESA 01 - C2 - 2 -> ELEVAS - 2: 34.89 m
+MESA 01 - C2 - 2 -> ELEVAS - 3: 33.12 m
+MESA 01 - C2 - 2 -> ELEVAS - 4: 34.67 m
+MESA 01 - C2 - 2 -> A1 - 1: 12.08 m
+MESA 01 - C2 - 2 -> A1 - 2: 11.18 m
+MESA 01 - C2 - 2 -> A2 - 1: 7.21 m
+MESA 01 - C2 - 2 -> A2 - 2: 6.40 m
+
+MESA 01 - C3 - 1 -> PONTO INICIAL - I: 9.85 m
+MESA 01 - C3 - 1 -> PONTO FINAL - J: 14.56 m
+MESA 01 - C3 - 1 -> LAB 01 - 1: 25.55 m
+MESA 01 - C3 - 1 -> LAB 01 - 2: 22.56 m
+MESA 01 - C3 - 1 -> LAB 02: 26.08 m
+MESA 01 - C3 - 1 -> MESA 01 - 1: 0.00 m
+MESA 01 - C3 - 1 -> MESA 01 - 2: 2.00 m
+MESA 01 - C3 - 1 -> MESA 01 - 3: 2.83 m
+MESA 01 - C3 - 1 -> MESA 01 - 4: 2.00 m
+MESA 01 - C3 - 1 -> MESA 01 - C1 - 1: 3.00 m
+MESA 01 - C3 - 1 -> MESA 01 - C1 - 2: 3.16 m
+MESA 01 - C3 - 1 -> MESA 01 - C2 - 1: 2.24 m
+MESA 01 - C3 - 1 -> MESA 01 - C2 - 2: 1.41 m
+MESA 01 - C3 - 1 -> MESA 01 - C3 - 1: 0.00 m
+MESA 01 - C3 - 1 -> MESA 01 - C3 - 2: 1.00 m
+MESA 01 - C3 - 1 -> MESA 01 - C4 - 1: 3.61 m
+MESA 01 - C3 - 1 -> MESA 01 - C4 - 2: 3.16 m
+MESA 01 - C3 - 1 -> MESA 02 - 1: 33.62 m
+MESA 01 - C3 - 1 -> MESA 02 - 2: 32.76 m
+MESA 01 - C3 - 1 -> MESA 02 - 3: 33.84 m
+MESA 01 - C3 - 1 -> MESA 02 - 4: 34.67 m
+MESA 01 - C3 - 1 -> MESA 02 - C1 - 1: 34.67 m
+MESA 01 - C3 - 1 -> MESA 02 - C1 - 2: 33.84 m
+MESA 01 - C3 - 1 -> MESA 02 - C3 - 1: 33.12 m
+MESA 01 - C3 - 1 -> MESA 02 - C3 - 2: 32.25 m
+MESA 01 - C3 - 1 -> MESA 02 - C4 - 1: 31.91 m
+MESA 01 - C3 - 1 -> MESA 02 - C4 - 2: 32.45 m
+MESA 01 - C3 - 1 -> SALA 01 - 1: 17.72 m
+MESA 01 - C3 - 1 -> SALA 01 - 2: 17.26 m
+MESA 01 - C3 - 1 -> SALA 02 - 1: 10.20 m
+MESA 01 - C3 - 1 -> SALA 02 - 2: 2.83 m
+MESA 01 - C3 - 1 -> B. F: 22.63 m
+MESA 01 - C3 - 1 -> B. M: 17.89 m
+MESA 01 - C3 - 1 -> B. C - 1: 19.10 m
+MESA 01 - C3 - 1 -> B. C - 2: 19.00 m
+MESA 01 - C3 - 1 -> CORREDOR - 1: 13.60 m
+MESA 01 - C3 - 1 -> CORREDOR - 2: 12.53 m
+MESA 01 - C3 - 1 -> ESCADA 1 - 1: 16.12 m
+MESA 01 - C3 - 1 -> ESCADA 1 - 2: 15.13 m
+MESA 01 - C3 - 1 -> ESCADA 2 - 1: 12.17 m
+MESA 01 - C3 - 1 -> ESCADA 2 - 2: 11.18 m
+MESA 01 - C3 - 1 -> ELEVAS - 1: 37.74 m
+MESA 01 - C3 - 1 -> ELEVAS - 2: 36.24 m
+MESA 01 - C3 - 1 -> ELEVAS - 3: 34.48 m
+MESA 01 - C3 - 1 -> ELEVAS - 4: 36.06 m
+MESA 01 - C3 - 1 -> A1 - 1: 13.42 m
+MESA 01 - C3 - 1 -> A1 - 2: 12.53 m
+MESA 01 - C3 - 1 -> A2 - 1: 7.62 m
+MESA 01 - C3 - 1 -> A2 - 2: 6.71 m
+
+MESA 01 - C3 - 2 -> PONTO INICIAL - I: 10.77 m
+MESA 01 - C3 - 2 -> PONTO FINAL - J: 14.32 m
+MESA 01 - C3 - 2 -> LAB 01 - 1: 26.42 m
+MESA 01 - C3 - 2 -> LAB 01 - 2: 23.54 m
+MESA 01 - C3 - 2 -> LAB 02: 27.07 m
+MESA 01 - C3 - 2 -> MESA 01 - 1: 1.00 m
+MESA 01 - C3 - 2 -> MESA 01 - 2: 1.00 m
+MESA 01 - C3 - 2 -> MESA 01 - 3: 2.24 m
+MESA 01 - C3 - 2 -> MESA 01 - 4: 2.24 m
+MESA 01 - C3 - 2 -> MESA 01 - C1 - 1: 3.16 m
+MESA 01 - C3 - 2 -> MESA 01 - C1 - 2: 3.00 m
+MESA 01 - C3 - 2 -> MESA 01 - C2 - 1: 2.83 m
+MESA 01 - C3 - 2 -> MESA 01 - C2 - 2: 2.24 m
+MESA 01 - C3 - 2 -> MESA 01 - C3 - 1: 1.00 m
+MESA 01 - C3 - 2 -> MESA 01 - C3 - 2: 0.00 m
+MESA 01 - C3 - 2 -> MESA 01 - C4 - 1: 2.83 m
+MESA 01 - C3 - 2 -> MESA 01 - C4 - 2: 2.24 m
+MESA 01 - C3 - 2 -> MESA 02 - 1: 34.48 m
+MESA 01 - C3 - 2 -> MESA 02 - 2: 33.62 m
+MESA 01 - C3 - 2 -> MESA 02 - 3: 34.67 m
+MESA 01 - C3 - 2 -> MESA 02 - 4: 35.51 m
+MESA 01 - C3 - 2 -> MESA 02 - C1 - 1: 35.51 m
+MESA 01 - C3 - 2 -> MESA 02 - C1 - 2: 34.67 m
+MESA 01 - C3 - 2 -> MESA 02 - C3 - 1: 34.00 m
+MESA 01 - C3 - 2 -> MESA 02 - C3 - 2: 33.12 m
+MESA 01 - C3 - 2 -> MESA 02 - C4 - 1: 32.76 m
+MESA 01 - C3 - 2 -> MESA 02 - C4 - 2: 33.29 m
+MESA 01 - C3 - 2 -> SALA 01 - 1: 18.03 m
+MESA 01 - C3 - 2 -> SALA 01 - 2: 17.12 m
+MESA 01 - C3 - 2 -> SALA 02 - 1: 11.18 m
+MESA 01 - C3 - 2 -> SALA 02 - 2: 3.61 m
+MESA 01 - C3 - 2 -> B. F: 23.35 m
+MESA 01 - C3 - 2 -> B. M: 18.36 m
+MESA 01 - C3 - 2 -> B. C - 1: 19.24 m
+MESA 01 - C3 - 2 -> B. C - 2: 19.03 m
+MESA 01 - C3 - 2 -> CORREDOR - 1: 14.42 m
+MESA 01 - C3 - 2 -> CORREDOR - 2: 13.42 m
+MESA 01 - C3 - 2 -> ESCADA 1 - 1: 17.12 m
+MESA 01 - C3 - 2 -> ESCADA 1 - 2: 16.12 m
+MESA 01 - C3 - 2 -> ESCADA 2 - 1: 13.15 m
+MESA 01 - C3 - 2 -> ESCADA 2 - 2: 12.17 m
+MESA 01 - C3 - 2 -> ELEVAS - 1: 38.59 m
+MESA 01 - C3 - 2 -> ELEVAS - 2: 37.12 m
+MESA 01 - C3 - 2 -> ELEVAS - 3: 35.36 m
+MESA 01 - C3 - 2 -> ELEVAS - 4: 36.89 m
+MESA 01 - C3 - 2 -> A1 - 1: 13.89 m
+MESA 01 - C3 - 2 -> A1 - 2: 13.04 m
+MESA 01 - C3 - 2 -> A2 - 1: 8.54 m
+MESA 01 - C3 - 2 -> A2 - 2: 7.62 m
+
+MESA 01 - C4 - 1 -> PONTO INICIAL - I: 13.42 m
+MESA 01 - C4 - 1 -> PONTO FINAL - J: 12.04 m
+MESA 01 - C4 - 1 -> LAB 01 - 1: 27.31 m
+MESA 01 - C4 - 1 -> LAB 01 - 2: 25.18 m
+MESA 01 - C4 - 1 -> LAB 02: 29.27 m
+MESA 01 - C4 - 1 -> MESA 01 - 1: 3.61 m
+MESA 01 - C4 - 1 -> MESA 01 - 2: 2.24 m
+MESA 01 - C4 - 1 -> MESA 01 - 3: 1.00 m
+MESA 01 - C4 - 1 -> MESA 01 - 4: 3.00 m
+MESA 01 - C4 - 1 -> MESA 01 - C1 - 1: 3.16 m
+MESA 01 - C4 - 1 -> MESA 01 - C1 - 2: 2.24 m
+MESA 01 - C4 - 1 -> MESA 01 - C2 - 1: 4.00 m
+MESA 01 - C4 - 1 -> MESA 01 - C2 - 2: 4.12 m
+MESA 01 - C4 - 1 -> MESA 01 - C3 - 1: 3.61 m
+MESA 01 - C4 - 1 -> MESA 01 - C3 - 2: 2.83 m
+MESA 01 - C4 - 1 -> MESA 01 - C4 - 1: 0.00 m
+MESA 01 - C4 - 1 -> MESA 01 - C4 - 2: 1.00 m
+MESA 01 - C4 - 1 -> MESA 02 - 1: 35.34 m
+MESA 01 - C4 - 1 -> MESA 02 - 2: 34.44 m
+MESA 01 - C4 - 1 -> MESA 02 - 3: 35.36 m
+MESA 01 - C4 - 1 -> MESA 02 - 4: 36.24 m
+MESA 01 - C4 - 1 -> MESA 02 - C1 - 1: 36.24 m
+MESA 01 - C4 - 1 -> MESA 02 - C1 - 2: 35.36 m
+MESA 01 - C4 - 1 -> MESA 02 - C3 - 1: 34.93 m
+MESA 01 - C4 - 1 -> MESA 02 - C3 - 2: 34.01 m
+MESA 01 - C4 - 1 -> MESA 02 - C4 - 1: 33.54 m
+MESA 01 - C4 - 1 -> MESA 02 - C4 - 2: 34.00 m
+MESA 01 - C4 - 1 -> SALA 01 - 1: 17.00 m
+MESA 01 - C4 - 1 -> SALA 01 - 2: 15.00 m
+MESA 01 - C4 - 1 -> SALA 02 - 1: 13.60 m
+MESA 01 - C4 - 1 -> SALA 02 - 2: 6.40 m
+MESA 01 - C4 - 1 -> B. F: 23.60 m
+MESA 01 - C4 - 1 -> B. M: 17.80 m
+MESA 01 - C4 - 1 -> B. C - 1: 17.72 m
+MESA 01 - C4 - 1 -> B. C - 2: 17.26 m
+MESA 01 - C4 - 1 -> CORREDOR - 1: 15.23 m
+MESA 01 - C4 - 1 -> CORREDOR - 2: 14.56 m
+MESA 01 - C4 - 1 -> ESCADA 1 - 1: 19.42 m
+MESA 01 - C4 - 1 -> ESCADA 1 - 2: 18.44 m
+MESA 01 - C4 - 1 -> ESCADA 2 - 1: 15.52 m
+MESA 01 - C4 - 1 -> ESCADA 2 - 2: 14.56 m
+MESA 01 - C4 - 1 -> ELEVAS - 1: 39.36 m
+MESA 01 - C4 - 1 -> ELEVAS - 2: 38.08 m
+MESA 01 - C4 - 1 -> ELEVAS - 3: 36.25 m
+MESA 01 - C4 - 1 -> ELEVAS - 4: 37.59 m
+MESA 01 - C4 - 1 -> A1 - 1: 13.45 m
+MESA 01 - C4 - 1 -> A1 - 2: 12.73 m
+MESA 01 - C4 - 1 -> A2 - 1: 11.18 m
+MESA 01 - C4 - 1 -> A2 - 2: 10.30 m
+
+MESA 01 - C4 - 2 -> PONTO INICIAL - I: 13.00 m
+MESA 01 - C4 - 2 -> PONTO FINAL - J: 13.04 m
+MESA 01 - C4 - 2 -> LAB 01 - 1: 27.73 m
+MESA 01 - C4 - 2 -> LAB 01 - 2: 25.32 m
+MESA 01 - C4 - 2 -> LAB 02: 29.15 m
+MESA 01 - C4 - 2 -> MESA 01 - 1: 3.16 m
+MESA 01 - C4 - 2 -> MESA 01 - 2: 1.41 m
+MESA 01 - C4 - 2 -> MESA 01 - 3: 1.41 m
+MESA 01 - C4 - 2 -> MESA 01 - 4: 3.16 m
+MESA 01 - C4 - 2 -> MESA 01 - C1 - 1: 3.61 m
+MESA 01 - C4 - 2 -> MESA 01 - C1 - 2: 2.83 m
+MESA 01 - C4 - 2 -> MESA 01 - C2 - 1: 4.12 m
+MESA 01 - C4 - 2 -> MESA 01 - C2 - 2: 4.00 m
+MESA 01 - C4 - 2 -> MESA 01 - C3 - 1: 3.16 m
+MESA 01 - C4 - 2 -> MESA 01 - C3 - 2: 2.24 m
+MESA 01 - C4 - 2 -> MESA 01 - C4 - 1: 1.00 m
+MESA 01 - C4 - 2 -> MESA 01 - C4 - 2: 0.00 m
+MESA 01 - C4 - 2 -> MESA 02 - 1: 35.78 m
+MESA 01 - C4 - 2 -> MESA 02 - 2: 34.89 m
+MESA 01 - C4 - 2 -> MESA 02 - 3: 35.85 m
+MESA 01 - C4 - 2 -> MESA 02 - 4: 36.72 m
+MESA 01 - C4 - 2 -> MESA 02 - C1 - 1: 36.72 m
+MESA 01 - C4 - 2 -> MESA 02 - C1 - 2: 35.85 m
+MESA 01 - C4 - 2 -> MESA 02 - C3 - 1: 35.34 m
+MESA 01 - C4 - 2 -> MESA 02 - C3 - 2: 34.44 m
+MESA 01 - C4 - 2 -> MESA 02 - C4 - 1: 34.00 m
+MESA 01 - C4 - 2 -> MESA 02 - C4 - 2: 34.48 m
+MESA 01 - C4 - 2 -> SALA 01 - 1: 17.89 m
+MESA 01 - C4 - 2 -> SALA 01 - 2: 16.00 m
+MESA 01 - C4 - 2 -> SALA 02 - 1: 13.34 m
+MESA 01 - C4 - 2 -> SALA 02 - 2: 5.83 m
+MESA 01 - C4 - 2 -> B. F: 24.21 m
+MESA 01 - C4 - 2 -> B. M: 18.60 m
+MESA 01 - C4 - 2 -> B. C - 1: 18.68 m
+MESA 01 - C4 - 2 -> B. C - 2: 18.25 m
+MESA 01 - C4 - 2 -> CORREDOR - 1: 15.65 m
+MESA 01 - C4 - 2 -> CORREDOR - 2: 14.87 m
+MESA 01 - C4 - 2 -> ESCADA 1 - 1: 19.24 m
+MESA 01 - C4 - 2 -> ESCADA 1 - 2: 18.25 m
+MESA 01 - C4 - 2 -> ESCADA 2 - 1: 15.30 m
+MESA 01 - C4 - 2 -> ESCADA 2 - 2: 14.32 m
+MESA 01 - C4 - 2 -> ELEVAS - 1: 39.82 m
+MESA 01 - C4 - 2 -> ELEVAS - 2: 38.48 m
+MESA 01 - C4 - 2 -> ELEVAS - 3: 36.67 m
+MESA 01 - C4 - 2 -> ELEVAS - 4: 38.08 m
+MESA 01 - C4 - 2 -> A1 - 1: 14.21 m
+MESA 01 - C4 - 2 -> A1 - 2: 13.45 m
+MESA 01 - C4 - 2 -> A2 - 1: 10.77 m
+MESA 01 - C4 - 2 -> A2 - 2: 9.85 m
+
+MESA 02 - 1 -> PONTO INICIAL - I: 29.00 m
+MESA 02 - 1 -> PONTO FINAL - J: 33.14 m
+MESA 02 - 1 -> LAB 01 - 1: 8.06 m
+MESA 02 - 1 -> LAB 01 - 2: 13.89 m
+MESA 02 - 1 -> LAB 02: 19.24 m
+MESA 02 - 1 -> MESA 01 - 1: 33.62 m
+MESA 02 - 1 -> MESA 01 - 2: 35.36 m
+MESA 02 - 1 -> MESA 01 - 3: 34.44 m
+MESA 02 - 1 -> MESA 01 - 4: 32.65 m
+MESA 02 - 1 -> MESA 01 - C1 - 1: 32.20 m
+MESA 02 - 1 -> MESA 01 - C1 - 2: 33.11 m
+MESA 02 - 1 -> MESA 01 - C2 - 1: 31.76 m
+MESA 02 - 1 -> MESA 01 - C2 - 2: 32.25 m
+MESA 02 - 1 -> MESA 01 - C3 - 1: 33.62 m
+MESA 02 - 1 -> MESA 01 - C3 - 2: 34.48 m
+MESA 02 - 1 -> MESA 01 - C4 - 1: 35.34 m
+MESA 02 - 1 -> MESA 01 - C4 - 2: 35.78 m
+MESA 02 - 1 -> MESA 02 - 1: 0.00 m
+MESA 02 - 1 -> MESA 02 - 2: 1.00 m
+MESA 02 - 1 -> MESA 02 - 3: 2.24 m
+MESA 02 - 1 -> MESA 02 - 4: 2.00 m
+MESA 02 - 1 -> MESA 02 - C1 - 1: 2.00 m
+MESA 02 - 1 -> MESA 02 - C1 - 2: 2.24 m
+MESA 02 - 1 -> MESA 02 - C3 - 1: 1.00 m
+MESA 02 - 1 -> MESA 02 - C3 - 2: 1.41 m
+MESA 02 - 1 -> MESA 02 - C4 - 1: 2.00 m
+MESA 02 - 1 -> MESA 02 - C4 - 2: 2.24 m
+MESA 02 - 1 -> SALA 01 - 1: 24.00 m
+MESA 02 - 1 -> SALA 01 - 2: 32.00 m
+MESA 02 - 1 -> SALA 02 - 1: 26.87 m
+MESA 02 - 1 -> SALA 02 - 2: 33.02 m
+MESA 02 - 1 -> B. F: 13.04 m
+MESA 02 - 1 -> B. M: 21.02 m
+MESA 02 - 1 -> B. C - 1: 27.07 m
+MESA 02 - 1 -> B. C - 2: 29.07 m
+MESA 02 - 1 -> CORREDOR - 1: 20.12 m
+MESA 02 - 1 -> CORREDOR - 2: 21.10 m
+MESA 02 - 1 -> ESCADA 1 - 1: 23.02 m
+MESA 02 - 1 -> ESCADA 1 - 2: 23.60 m
+MESA 02 - 1 -> ESCADA 2 - 1: 25.50 m
+MESA 02 - 1 -> ESCADA 2 - 2: 26.17 m
+MESA 02 - 1 -> ELEVAS - 1: 4.24 m
+MESA 02 - 1 -> ELEVAS - 2: 3.00 m
+MESA 02 - 1 -> ELEVAS - 3: 1.00 m
+MESA 02 - 1 -> ELEVAS - 4: 3.16 m
+MESA 02 - 1 -> A1 - 1: 23.54 m
+MESA 02 - 1 -> A1 - 2: 23.77 m
+MESA 02 - 1 -> A2 - 1: 29.73 m
+MESA 02 - 1 -> A2 - 2: 30.48 m
+
+MESA 02 - 2 -> PONTO INICIAL - I: 28.32 m
+MESA 02 - 2 -> PONTO FINAL - J: 32.14 m
+MESA 02 - 2 -> LAB 01 - 1: 7.21 m
+MESA 02 - 2 -> LAB 01 - 2: 13.42 m
+MESA 02 - 2 -> LAB 02: 19.10 m
+MESA 02 - 2 -> MESA 01 - 1: 32.76 m
+MESA 02 - 2 -> MESA 01 - 2: 34.48 m
+MESA 02 - 2 -> MESA 01 - 3: 33.54 m
+MESA 02 - 2 -> MESA 01 - 4: 31.76 m
+MESA 02 - 2 -> MESA 01 - C1 - 1: 31.30 m
+MESA 02 - 2 -> MESA 01 - C1 - 2: 32.20 m
+MESA 02 - 2 -> MESA 01 - C2 - 1: 30.89 m
+MESA 02 - 2 -> MESA 01 - C2 - 2: 31.38 m
+MESA 02 - 2 -> MESA 01 - C3 - 1: 32.76 m
+MESA 02 - 2 -> MESA 01 - C3 - 2: 33.62 m
+MESA 02 - 2 -> MESA 01 - C4 - 1: 34.44 m
+MESA 02 - 2 -> MESA 01 - C4 - 2: 34.89 m
+MESA 02 - 2 -> MESA 02 - 1: 1.00 m
+MESA 02 - 2 -> MESA 02 - 2: 0.00 m
+MESA 02 - 2 -> MESA 02 - 3: 2.00 m
+MESA 02 - 2 -> MESA 02 - 4: 2.24 m
+MESA 02 - 2 -> MESA 02 - C1 - 1: 2.24 m
+MESA 02 - 2 -> MESA 02 - C1 - 2: 2.00 m
+MESA 02 - 2 -> MESA 02 - C3 - 1: 1.41 m
+MESA 02 - 2 -> MESA 02 - C3 - 2: 1.00 m
+MESA 02 - 2 -> MESA 02 - C4 - 1: 1.00 m
+MESA 02 - 2 -> MESA 02 - C4 - 2: 1.41 m
+MESA 02 - 2 -> SALA 01 - 1: 23.00 m
+MESA 02 - 2 -> SALA 01 - 2: 31.00 m
+MESA 02 - 2 -> SALA 02 - 1: 26.17 m
+MESA 02 - 2 -> SALA 02 - 2: 32.20 m
+MESA 02 - 2 -> B. F: 12.04 m
+MESA 02 - 2 -> B. M: 20.02 m
+MESA 02 - 2 -> B. C - 1: 26.08 m
+MESA 02 - 2 -> B. C - 2: 28.07 m
+MESA 02 - 2 -> CORREDOR - 1: 19.24 m
+MESA 02 - 2 -> CORREDOR - 2: 20.25 m
+MESA 02 - 2 -> ESCADA 1 - 1: 22.47 m
+MESA 02 - 2 -> ESCADA 1 - 2: 23.02 m
+MESA 02 - 2 -> ESCADA 2 - 1: 24.84 m
+MESA 02 - 2 -> ESCADA 2 - 2: 25.50 m
+MESA 02 - 2 -> ELEVAS - 1: 5.00 m
+MESA 02 - 2 -> ELEVAS - 2: 4.00 m
+MESA 02 - 2 -> ELEVAS - 3: 2.00 m
+MESA 02 - 2 -> ELEVAS - 4: 3.61 m
+MESA 02 - 2 -> A1 - 1: 22.56 m
+MESA 02 - 2 -> A1 - 2: 22.80 m
+MESA 02 - 2 -> A2 - 1: 29.00 m
+MESA 02 - 2 -> A2 - 2: 29.73 m
+
+MESA 02 - 3 -> PONTO INICIAL - I: 29.83 m
+MESA 02 - 3 -> PONTO FINAL - J: 32.39 m
+MESA 02 - 3 -> LAB 01 - 1: 8.49 m
+MESA 02 - 3 -> LAB 01 - 2: 15.23 m
+MESA 02 - 3 -> LAB 02: 21.10 m
+MESA 02 - 3 -> MESA 01 - 1: 33.84 m
+MESA 02 - 3 -> MESA 01 - 2: 35.51 m
+MESA 02 - 3 -> MESA 01 - 3: 34.48 m
+MESA 02 - 3 -> MESA 01 - 4: 32.76 m
+MESA 02 - 3 -> MESA 01 - C1 - 1: 32.25 m
+MESA 02 - 3 -> MESA 01 - C1 - 2: 33.12 m
+MESA 02 - 3 -> MESA 01 - C2 - 1: 31.91 m
+MESA 02 - 3 -> MESA 01 - C2 - 2: 32.45 m
+MESA 02 - 3 -> MESA 01 - C3 - 1: 33.84 m
+MESA 02 - 3 -> MESA 01 - C3 - 2: 34.67 m
+MESA 02 - 3 -> MESA 01 - C4 - 1: 35.36 m
+MESA 02 - 3 -> MESA 01 - C4 - 2: 35.85 m
+MESA 02 - 3 -> MESA 02 - 1: 2.24 m
+MESA 02 - 3 -> MESA 02 - 2: 2.00 m
+MESA 02 - 3 -> MESA 02 - 3: 0.00 m
+MESA 02 - 3 -> MESA 02 - 4: 1.00 m
+MESA 02 - 3 -> MESA 02 - C1 - 1: 1.00 m
+MESA 02 - 3 -> MESA 02 - C1 - 2: 0.00 m
+MESA 02 - 3 -> MESA 02 - C3 - 1: 3.16 m
+MESA 02 - 3 -> MESA 02 - C3 - 2: 3.00 m
+MESA 02 - 3 -> MESA 02 - C4 - 1: 2.24 m
+MESA 02 - 3 -> MESA 02 - C4 - 2: 1.41 m
+MESA 02 - 3 -> SALA 01 - 1: 23.09 m
+MESA 02 - 3 -> SALA 01 - 2: 31.06 m
+MESA 02 - 3 -> SALA 02 - 1: 27.66 m
+MESA 02 - 3 -> SALA 02 - 2: 33.42 m
+MESA 02 - 3 -> B. F: 12.37 m
+MESA 02 - 3 -> B. M: 20.22 m
+MESA 02 - 3 -> B. C - 1: 26.00 m
+MESA 02 - 3 -> B. C - 2: 28.00 m
+MESA 02 - 3 -> CORREDOR - 1: 20.25 m
+MESA 02 - 3 -> CORREDOR - 2: 21.40 m
+MESA 02 - 3 -> ESCADA 1 - 1: 24.19 m
+MESA 02 - 3 -> ESCADA 1 - 2: 24.70 m
+MESA 02 - 3 -> ESCADA 2 - 1: 26.40 m
+MESA 02 - 3 -> ESCADA 2 - 2: 27.02 m
+MESA 02 - 3 -> ELEVAS - 1: 4.12 m
+MESA 02 - 3 -> ELEVAS - 2: 4.47 m
+MESA 02 - 3 -> ELEVAS - 3: 2.83 m
+MESA 02 - 3 -> ELEVAS - 4: 2.24 m
+MESA 02 - 3 -> A1 - 1: 23.09 m
+MESA 02 - 3 -> A1 - 2: 23.41 m
+MESA 02 - 3 -> A2 - 1: 30.41 m
+MESA 02 - 3 -> A2 - 2: 31.11 m
+
+MESA 02 - 4 -> PONTO INICIAL - I: 30.48 m
+MESA 02 - 4 -> PONTO FINAL - J: 33.38 m
+MESA 02 - 4 -> LAB 01 - 1: 9.22 m
+MESA 02 - 4 -> LAB 01 - 2: 15.65 m
+MESA 02 - 4 -> LAB 02: 21.21 m
+MESA 02 - 4 -> MESA 01 - 1: 34.67 m
+MESA 02 - 4 -> MESA 01 - 2: 36.36 m
+MESA 02 - 4 -> MESA 01 - 3: 35.36 m
+MESA 02 - 4 -> MESA 01 - 4: 33.62 m
+MESA 02 - 4 -> MESA 01 - C1 - 1: 33.12 m
+MESA 02 - 4 -> MESA 01 - C1 - 2: 34.00 m
+MESA 02 - 4 -> MESA 01 - C2 - 1: 32.76 m
+MESA 02 - 4 -> MESA 01 - C2 - 2: 33.29 m
+MESA 02 - 4 -> MESA 01 - C3 - 1: 34.67 m
+MESA 02 - 4 -> MESA 01 - C3 - 2: 35.51 m
+MESA 02 - 4 -> MESA 01 - C4 - 1: 36.24 m
+MESA 02 - 4 -> MESA 01 - C4 - 2: 36.72 m
+MESA 02 - 4 -> MESA 02 - 1: 2.00 m
+MESA 02 - 4 -> MESA 02 - 2: 2.24 m
+MESA 02 - 4 -> MESA 02 - 3: 1.00 m
+MESA 02 - 4 -> MESA 02 - 4: 0.00 m
+MESA 02 - 4 -> MESA 02 - C1 - 1: 0.00 m
+MESA 02 - 4 -> MESA 02 - C1 - 2: 1.00 m
+MESA 02 - 4 -> MESA 02 - C3 - 1: 3.00 m
+MESA 02 - 4 -> MESA 02 - C3 - 2: 3.16 m
+MESA 02 - 4 -> MESA 02 - C4 - 1: 2.83 m
+MESA 02 - 4 -> MESA 02 - C4 - 2: 2.24 m
+MESA 02 - 4 -> SALA 01 - 1: 24.08 m
+MESA 02 - 4 -> SALA 01 - 2: 32.06 m
+MESA 02 - 4 -> SALA 02 - 1: 28.32 m
+MESA 02 - 4 -> SALA 02 - 2: 34.21 m
+MESA 02 - 4 -> B. F: 13.34 m
+MESA 02 - 4 -> B. M: 21.21 m
+MESA 02 - 4 -> B. C - 1: 27.00 m
+MESA 02 - 4 -> B. C - 2: 29.00 m
+MESA 02 - 4 -> CORREDOR - 1: 21.10 m
+MESA 02 - 4 -> CORREDOR - 2: 22.20 m
+MESA 02 - 4 -> ESCADA 1 - 1: 24.70 m
+MESA 02 - 4 -> ESCADA 1 - 2: 25.24 m
+MESA 02 - 4 -> ESCADA 2 - 1: 27.02 m
+MESA 02 - 4 -> ESCADA 2 - 2: 27.66 m
+MESA 02 - 4 -> ELEVAS - 1: 3.16 m
+MESA 02 - 4 -> ELEVAS - 2: 3.61 m
+MESA 02 - 4 -> ELEVAS - 3: 2.24 m
+MESA 02 - 4 -> ELEVAS - 4: 1.41 m
+MESA 02 - 4 -> A1 - 1: 24.04 m
+MESA 02 - 4 -> A1 - 2: 24.35 m
+MESA 02 - 4 -> A2 - 1: 31.11 m
+MESA 02 - 4 -> A2 - 2: 31.83 m
+
+MESA 02 - C1 - 1 -> PONTO INICIAL - I: 30.48 m
+MESA 02 - C1 - 1 -> PONTO FINAL - J: 33.38 m
+MESA 02 - C1 - 1 -> LAB 01 - 1: 9.22 m
+MESA 02 - C1 - 1 -> LAB 01 - 2: 15.65 m
+MESA 02 - C1 - 1 -> LAB 02: 21.21 m
+MESA 02 - C1 - 1 -> MESA 01 - 1: 34.67 m
+MESA 02 - C1 - 1 -> MESA 01 - 2: 36.36 m
+MESA 02 - C1 - 1 -> MESA 01 - 3: 35.36 m
+MESA 02 - C1 - 1 -> MESA 01 - 4: 33.62 m
+MESA 02 - C1 - 1 -> MESA 01 - C1 - 1: 33.12 m
+MESA 02 - C1 - 1 -> MESA 01 - C1 - 2: 34.00 m
+MESA 02 - C1 - 1 -> MESA 01 - C2 - 1: 32.76 m
+MESA 02 - C1 - 1 -> MESA 01 - C2 - 2: 33.29 m
+MESA 02 - C1 - 1 -> MESA 01 - C3 - 1: 34.67 m
+MESA 02 - C1 - 1 -> MESA 01 - C3 - 2: 35.51 m
+MESA 02 - C1 - 1 -> MESA 01 - C4 - 1: 36.24 m
+MESA 02 - C1 - 1 -> MESA 01 - C4 - 2: 36.72 m
+MESA 02 - C1 - 1 -> MESA 02 - 1: 2.00 m
+MESA 02 - C1 - 1 -> MESA 02 - 2: 2.24 m
+MESA 02 - C1 - 1 -> MESA 02 - 3: 1.00 m
+MESA 02 - C1 - 1 -> MESA 02 - 4: 0.00 m
+MESA 02 - C1 - 1 -> MESA 02 - C1 - 1: 0.00 m
+MESA 02 - C1 - 1 -> MESA 02 - C1 - 2: 1.00 m
+MESA 02 - C1 - 1 -> MESA 02 - C3 - 1: 3.00 m
+MESA 02 - C1 - 1 -> MESA 02 - C3 - 2: 3.16 m
+MESA 02 - C1 - 1 -> MESA 02 - C4 - 1: 2.83 m
+MESA 02 - C1 - 1 -> MESA 02 - C4 - 2: 2.24 m
+MESA 02 - C1 - 1 -> SALA 01 - 1: 24.08 m
+MESA 02 - C1 - 1 -> SALA 01 - 2: 32.06 m
+MESA 02 - C1 - 1 -> SALA 02 - 1: 28.32 m
+MESA 02 - C1 - 1 -> SALA 02 - 2: 34.21 m
+MESA 02 - C1 - 1 -> B. F: 13.34 m
+MESA 02 - C1 - 1 -> B. M: 21.21 m
+MESA 02 - C1 - 1 -> B. C - 1: 27.00 m
+MESA 02 - C1 - 1 -> B. C - 2: 29.00 m
+MESA 02 - C1 - 1 -> CORREDOR - 1: 21.10 m
+MESA 02 - C1 - 1 -> CORREDOR - 2: 22.20 m
+MESA 02 - C1 - 1 -> ESCADA 1 - 1: 24.70 m
+MESA 02 - C1 - 1 -> ESCADA 1 - 2: 25.24 m
+MESA 02 - C1 - 1 -> ESCADA 2 - 1: 27.02 m
+MESA 02 - C1 - 1 -> ESCADA 2 - 2: 27.66 m
+MESA 02 - C1 - 1 -> ELEVAS - 1: 3.16 m
+MESA 02 - C1 - 1 -> ELEVAS - 2: 3.61 m
+MESA 02 - C1 - 1 -> ELEVAS - 3: 2.24 m
+MESA 02 - C1 - 1 -> ELEVAS - 4: 1.41 m
+MESA 02 - C1 - 1 -> A1 - 1: 24.04 m
+MESA 02 - C1 - 1 -> A1 - 2: 24.35 m
+MESA 02 - C1 - 1 -> A2 - 1: 31.11 m
+MESA 02 - C1 - 1 -> A2 - 2: 31.83 m
+
+MESA 02 - C1 - 2 -> PONTO INICIAL - I: 29.83 m
+MESA 02 - C1 - 2 -> PONTO FINAL - J: 32.39 m
+MESA 02 - C1 - 2 -> LAB 01 - 1: 8.49 m
+MESA 02 - C1 - 2 -> LAB 01 - 2: 15.23 m
+MESA 02 - C1 - 2 -> LAB 02: 21.10 m
+MESA 02 - C1 - 2 -> MESA 01 - 1: 33.84 m
+MESA 02 - C1 - 2 -> MESA 01 - 2: 35.51 m
+MESA 02 - C1 - 2 -> MESA 01 - 3: 34.48 m
+MESA 02 - C1 - 2 -> MESA 01 - 4: 32.76 m
+MESA 02 - C1 - 2 -> MESA 01 - C1 - 1: 32.25 m
+MESA 02 - C1 - 2 -> MESA 01 - C1 - 2: 33.12 m
+MESA 02 - C1 - 2 -> MESA 01 - C2 - 1: 31.91 m
+MESA 02 - C1 - 2 -> MESA 01 - C2 - 2: 32.45 m
+MESA 02 - C1 - 2 -> MESA 01 - C3 - 1: 33.84 m
+MESA 02 - C1 - 2 -> MESA 01 - C3 - 2: 34.67 m
+MESA 02 - C1 - 2 -> MESA 01 - C4 - 1: 35.36 m
+MESA 02 - C1 - 2 -> MESA 01 - C4 - 2: 35.85 m
+MESA 02 - C1 - 2 -> MESA 02 - 1: 2.24 m
+MESA 02 - C1 - 2 -> MESA 02 - 2: 2.00 m
+MESA 02 - C1 - 2 -> MESA 02 - 3: 0.00 m
+MESA 02 - C1 - 2 -> MESA 02 - 4: 1.00 m
+MESA 02 - C1 - 2 -> MESA 02 - C1 - 1: 1.00 m
+MESA 02 - C1 - 2 -> MESA 02 - C1 - 2: 0.00 m
+MESA 02 - C1 - 2 -> MESA 02 - C3 - 1: 3.16 m
+MESA 02 - C1 - 2 -> MESA 02 - C3 - 2: 3.00 m
+MESA 02 - C1 - 2 -> MESA 02 - C4 - 1: 2.24 m
+MESA 02 - C1 - 2 -> MESA 02 - C4 - 2: 1.41 m
+MESA 02 - C1 - 2 -> SALA 01 - 1: 23.09 m
+MESA 02 - C1 - 2 -> SALA 01 - 2: 31.06 m
+MESA 02 - C1 - 2 -> SALA 02 - 1: 27.66 m
+MESA 02 - C1 - 2 -> SALA 02 - 2: 33.42 m
+MESA 02 - C1 - 2 -> B. F: 12.37 m
+MESA 02 - C1 - 2 -> B. M: 20.22 m
+MESA 02 - C1 - 2 -> B. C - 1: 26.00 m
+MESA 02 - C1 - 2 -> B. C - 2: 28.00 m
+MESA 02 - C1 - 2 -> CORREDOR - 1: 20.25 m
+MESA 02 - C1 - 2 -> CORREDOR - 2: 21.40 m
+MESA 02 - C1 - 2 -> ESCADA 1 - 1: 24.19 m
+MESA 02 - C1 - 2 -> ESCADA 1 - 2: 24.70 m
+MESA 02 - C1 - 2 -> ESCADA 2 - 1: 26.40 m
+MESA 02 - C1 - 2 -> ESCADA 2 - 2: 27.02 m
+MESA 02 - C1 - 2 -> ELEVAS - 1: 4.12 m
+MESA 02 - C1 - 2 -> ELEVAS - 2: 4.47 m
+MESA 02 - C1 - 2 -> ELEVAS - 3: 2.83 m
+MESA 02 - C1 - 2 -> ELEVAS - 4: 2.24 m
+MESA 02 - C1 - 2 -> A1 - 1: 23.09 m
+MESA 02 - C1 - 2 -> A1 - 2: 23.41 m
+MESA 02 - C1 - 2 -> A2 - 1: 30.41 m
+MESA 02 - C1 - 2 -> A2 - 2: 31.11 m
+
+MESA 02 - C3 - 1 -> PONTO INICIAL - I: 28.28 m
+MESA 02 - C3 - 1 -> PONTO FINAL - J: 33.06 m
+MESA 02 - C3 - 1 -> LAB 01 - 1: 7.62 m
+MESA 02 - C3 - 1 -> LAB 01 - 2: 13.04 m
+MESA 02 - C3 - 1 -> LAB 02: 18.25 m
+MESA 02 - C3 - 1 -> MESA 01 - 1: 33.12 m
+MESA 02 - C3 - 1 -> MESA 01 - 2: 34.89 m
+MESA 02 - C3 - 1 -> MESA 01 - 3: 34.01 m
+MESA 02 - C3 - 1 -> MESA 01 - 4: 32.20 m
+MESA 02 - C3 - 1 -> MESA 01 - C1 - 1: 31.78 m
+MESA 02 - C3 - 1 -> MESA 01 - C1 - 2: 32.70 m
+MESA 02 - C3 - 1 -> MESA 01 - C2 - 1: 31.30 m
+MESA 02 - C3 - 1 -> MESA 01 - C2 - 2: 31.76 m
+MESA 02 - C3 - 1 -> MESA 01 - C3 - 1: 33.12 m
+MESA 02 - C3 - 1 -> MESA 01 - C3 - 2: 34.00 m
+MESA 02 - C3 - 1 -> MESA 01 - C4 - 1: 34.93 m
+MESA 02 - C3 - 1 -> MESA 01 - C4 - 2: 35.34 m
+MESA 02 - C3 - 1 -> MESA 02 - 1: 1.00 m
+MESA 02 - C3 - 1 -> MESA 02 - 2: 1.41 m
+MESA 02 - C3 - 1 -> MESA 02 - 3: 3.16 m
+MESA 02 - C3 - 1 -> MESA 02 - 4: 3.00 m
+MESA 02 - C3 - 1 -> MESA 02 - C1 - 1: 3.00 m
+MESA 02 - C3 - 1 -> MESA 02 - C1 - 2: 3.16 m
+MESA 02 - C3 - 1 -> MESA 02 - C3 - 1: 0.00 m
+MESA 02 - C3 - 1 -> MESA 02 - C3 - 2: 1.00 m
+MESA 02 - C3 - 1 -> MESA 02 - C4 - 1: 2.24 m
+MESA 02 - C3 - 1 -> MESA 02 - C4 - 2: 2.83 m
+MESA 02 - C3 - 1 -> SALA 01 - 1: 24.02 m
+MESA 02 - C3 - 1 -> SALA 01 - 2: 32.02 m
+MESA 02 - C3 - 1 -> SALA 02 - 1: 26.17 m
+MESA 02 - C3 - 1 -> SALA 02 - 2: 32.45 m
+MESA 02 - C3 - 1 -> B. F: 13.00 m
+MESA 02 - C3 - 1 -> B. M: 21.00 m
+MESA 02 - C3 - 1 -> B. C - 1: 27.17 m
+MESA 02 - C3 - 1 -> B. C - 2: 29.15 m
+MESA 02 - C3 - 1 -> CORREDOR - 1: 19.70 m
+MESA 02 - C3 - 1 -> CORREDOR - 2: 20.59 m
+MESA 02 - C3 - 1 -> ESCADA 1 - 1: 22.20 m
+MESA 02 - C3 - 1 -> ESCADA 1 - 2: 22.80 m
+MESA 02 - C3 - 1 -> ESCADA 2 - 1: 24.76 m
+MESA 02 - C3 - 1 -> ESCADA 2 - 2: 25.46 m
+MESA 02 - C3 - 1 -> ELEVAS - 1: 5.00 m
+MESA 02 - C3 - 1 -> ELEVAS - 2: 3.16 m
+MESA 02 - C3 - 1 -> ELEVAS - 3: 1.41 m
+MESA 02 - C3 - 1 -> ELEVAS - 4: 4.12 m
+MESA 02 - C3 - 1 -> A1 - 1: 23.35 m
+MESA 02 - C3 - 1 -> A1 - 2: 23.54 m
+MESA 02 - C3 - 1 -> A2 - 1: 29.07 m
+MESA 02 - C3 - 1 -> A2 - 2: 29.83 m
+
+MESA 02 - C3 - 2 -> PONTO INICIAL - I: 27.59 m
+MESA 02 - C3 - 2 -> PONTO FINAL - J: 32.06 m
+MESA 02 - C3 - 2 -> LAB 01 - 1: 6.71 m
+MESA 02 - C3 - 2 -> LAB 01 - 2: 12.53 m
+MESA 02 - C3 - 2 -> LAB 02: 18.11 m
+MESA 02 - C3 - 2 -> MESA 01 - 1: 32.25 m
+MESA 02 - C3 - 2 -> MESA 01 - 2: 34.00 m
+MESA 02 - C3 - 2 -> MESA 01 - 3: 33.11 m
+MESA 02 - C3 - 2 -> MESA 01 - 4: 31.30 m
+MESA 02 - C3 - 2 -> MESA 01 - C1 - 1: 30.87 m
+MESA 02 - C3 - 2 -> MESA 01 - C1 - 2: 31.78 m
+MESA 02 - C3 - 2 -> MESA 01 - C2 - 1: 30.41 m
+MESA 02 - C3 - 2 -> MESA 01 - C2 - 2: 30.89 m
+MESA 02 - C3 - 2 -> MESA 01 - C3 - 1: 32.25 m
+MESA 02 - C3 - 2 -> MESA 01 - C3 - 2: 33.12 m
+MESA 02 - C3 - 2 -> MESA 01 - C4 - 1: 34.01 m
+MESA 02 - C3 - 2 -> MESA 01 - C4 - 2: 34.44 m
+MESA 02 - C3 - 2 -> MESA 02 - 1: 1.41 m
+MESA 02 - C3 - 2 -> MESA 02 - 2: 1.00 m
+MESA 02 - C3 - 2 -> MESA 02 - 3: 3.00 m
+MESA 02 - C3 - 2 -> MESA 02 - 4: 3.16 m
+MESA 02 - C3 - 2 -> MESA 02 - C1 - 1: 3.16 m
+MESA 02 - C3 - 2 -> MESA 02 - C1 - 2: 3.00 m
+MESA 02 - C3 - 2 -> MESA 02 - C3 - 1: 1.00 m
+MESA 02 - C3 - 2 -> MESA 02 - C3 - 2: 0.00 m
+MESA 02 - C3 - 2 -> MESA 02 - C4 - 1: 1.41 m
+MESA 02 - C3 - 2 -> MESA 02 - C4 - 2: 2.24 m
+MESA 02 - C3 - 2 -> SALA 01 - 1: 23.02 m
+MESA 02 - C3 - 2 -> SALA 01 - 2: 31.02 m
+MESA 02 - C3 - 2 -> SALA 02 - 1: 25.46 m
+MESA 02 - C3 - 2 -> SALA 02 - 2: 31.62 m
+MESA 02 - C3 - 2 -> B. F: 12.00 m
+MESA 02 - C3 - 2 -> B. M: 20.00 m
+MESA 02 - C3 - 2 -> B. C - 1: 26.17 m
+MESA 02 - C3 - 2 -> B. C - 2: 28.16 m
+MESA 02 - C3 - 2 -> CORREDOR - 1: 18.79 m
+MESA 02 - C3 - 2 -> CORREDOR - 2: 19.72 m
+MESA 02 - C3 - 2 -> ESCADA 1 - 1: 21.63 m
+MESA 02 - C3 - 2 -> ESCADA 1 - 2: 22.20 m
+MESA 02 - C3 - 2 -> ESCADA 2 - 1: 24.08 m
+MESA 02 - C3 - 2 -> ESCADA 2 - 2: 24.76 m
+MESA 02 - C3 - 2 -> ELEVAS - 1: 5.66 m
+MESA 02 - C3 - 2 -> ELEVAS - 2: 4.12 m
+MESA 02 - C3 - 2 -> ELEVAS - 3: 2.24 m
+MESA 02 - C3 - 2 -> ELEVAS - 4: 4.47 m
+MESA 02 - C3 - 2 -> A1 - 1: 22.36 m
+MESA 02 - C3 - 2 -> A1 - 2: 22.56 m
+MESA 02 - C3 - 2 -> A2 - 1: 28.32 m
+MESA 02 - C3 - 2 -> A2 - 2: 29.07 m
+
+MESA 02 - C4 - 1 -> PONTO INICIAL - I: 27.66 m
+MESA 02 - C4 - 1 -> PONTO FINAL - J: 31.14 m
+MESA 02 - C4 - 1 -> LAB 01 - 1: 6.40 m
+MESA 02 - C4 - 1 -> LAB 01 - 2: 13.00 m
+MESA 02 - C4 - 1 -> LAB 02: 19.03 m
+MESA 02 - C4 - 1 -> MESA 01 - 1: 31.91 m
+MESA 02 - C4 - 1 -> MESA 01 - 2: 33.62 m
+MESA 02 - C4 - 1 -> MESA 01 - 3: 32.65 m
+MESA 02 - C4 - 1 -> MESA 01 - 4: 30.89 m
+MESA 02 - C4 - 1 -> MESA 01 - C1 - 1: 30.41 m
+MESA 02 - C4 - 1 -> MESA 01 - C1 - 2: 31.30 m
+MESA 02 - C4 - 1 -> MESA 01 - C2 - 1: 30.02 m
+MESA 02 - C4 - 1 -> MESA 01 - C2 - 2: 30.53 m
+MESA 02 - C4 - 1 -> MESA 01 - C3 - 1: 31.91 m
+MESA 02 - C4 - 1 -> MESA 01 - C3 - 2: 32.76 m
+MESA 02 - C4 - 1 -> MESA 01 - C4 - 1: 33.54 m
+MESA 02 - C4 - 1 -> MESA 01 - C4 - 2: 34.00 m
+MESA 02 - C4 - 1 -> MESA 02 - 1: 2.00 m
+MESA 02 - C4 - 1 -> MESA 02 - 2: 1.00 m
+MESA 02 - C4 - 1 -> MESA 02 - 3: 2.24 m
+MESA 02 - C4 - 1 -> MESA 02 - 4: 2.83 m
+MESA 02 - C4 - 1 -> MESA 02 - C1 - 1: 2.83 m
+MESA 02 - C4 - 1 -> MESA 02 - C1 - 2: 2.24 m
+MESA 02 - C4 - 1 -> MESA 02 - C3 - 1: 2.24 m
+MESA 02 - C4 - 1 -> MESA 02 - C3 - 2: 1.41 m
+MESA 02 - C4 - 1 -> MESA 02 - C4 - 1: 0.00 m
+MESA 02 - C4 - 1 -> MESA 02 - C4 - 2: 1.00 m
+MESA 02 - C4 - 1 -> SALA 01 - 1: 22.00 m
+MESA 02 - C4 - 1 -> SALA 01 - 2: 30.00 m
+MESA 02 - C4 - 1 -> SALA 02 - 1: 25.50 m
+MESA 02 - C4 - 1 -> SALA 02 - 2: 31.40 m
+MESA 02 - C4 - 1 -> B. F: 11.05 m
+MESA 02 - C4 - 1 -> B. M: 19.03 m
+MESA 02 - C4 - 1 -> B. C - 1: 25.08 m
+MESA 02 - C4 - 1 -> B. C - 2: 27.07 m
+MESA 02 - C4 - 1 -> CORREDOR - 1: 18.36 m
+MESA 02 - C4 - 1 -> CORREDOR - 2: 19.42 m
+MESA 02 - C4 - 1 -> ESCADA 1 - 1: 21.95 m
+MESA 02 - C4 - 1 -> ESCADA 1 - 2: 22.47 m
+MESA 02 - C4 - 1 -> ESCADA 2 - 1: 24.21 m
+MESA 02 - C4 - 1 -> ESCADA 2 - 2: 24.84 m
+MESA 02 - C4 - 1 -> ELEVAS - 1: 5.83 m
+MESA 02 - C4 - 1 -> ELEVAS - 2: 5.00 m
+MESA 02 - C4 - 1 -> ELEVAS - 3: 3.00 m
+MESA 02 - C4 - 1 -> ELEVAS - 4: 4.24 m
+MESA 02 - C4 - 1 -> A1 - 1: 21.59 m
+MESA 02 - C4 - 1 -> A1 - 2: 21.84 m
+MESA 02 - C4 - 1 -> A2 - 1: 28.28 m
+MESA 02 - C4 - 1 -> A2 - 2: 29.00 m
+
+MESA 02 - C4 - 2 -> PONTO INICIAL - I: 28.43 m
+MESA 02 - C4 - 2 -> PONTO FINAL - J: 31.26 m
+MESA 02 - C4 - 2 -> LAB 01 - 1: 7.07 m
+MESA 02 - C4 - 2 -> LAB 01 - 2: 13.93 m
+MESA 02 - C4 - 2 -> LAB 02: 20.02 m
+MESA 02 - C4 - 2 -> MESA 01 - 1: 32.45 m
+MESA 02 - C4 - 2 -> MESA 01 - 2: 34.13 m
+MESA 02 - C4 - 2 -> MESA 01 - 3: 33.12 m
+MESA 02 - C4 - 2 -> MESA 01 - 4: 31.38 m
+MESA 02 - C4 - 2 -> MESA 01 - C1 - 1: 30.89 m
+MESA 02 - C4 - 2 -> MESA 01 - C1 - 2: 31.76 m
+MESA 02 - C4 - 2 -> MESA 01 - C2 - 1: 30.53 m
+MESA 02 - C4 - 2 -> MESA 01 - C2 - 2: 31.06 m
+MESA 02 - C4 - 2 -> MESA 01 - C3 - 1: 32.45 m
+MESA 02 - C4 - 2 -> MESA 01 - C3 - 2: 33.29 m
+MESA 02 - C4 - 2 -> MESA 01 - C4 - 1: 34.00 m
+MESA 02 - C4 - 2 -> MESA 01 - C4 - 2: 34.48 m
+MESA 02 - C4 - 2 -> MESA 02 - 1: 2.24 m
+MESA 02 - C4 - 2 -> MESA 02 - 2: 1.41 m
+MESA 02 - C4 - 2 -> MESA 02 - 3: 1.41 m
+MESA 02 - C4 - 2 -> MESA 02 - 4: 2.24 m
+MESA 02 - C4 - 2 -> MESA 02 - C1 - 1: 2.24 m
+MESA 02 - C4 - 2 -> MESA 02 - C1 - 2: 1.41 m
+MESA 02 - C4 - 2 -> MESA 02 - C3 - 1: 2.83 m
+MESA 02 - C4 - 2 -> MESA 02 - C3 - 2: 2.24 m
+MESA 02 - C4 - 2 -> MESA 02 - C4 - 1: 1.00 m
+MESA 02 - C4 - 2 -> MESA 02 - C4 - 2: 0.00 m
+MESA 02 - C4 - 2 -> SALA 01 - 1: 22.02 m
+MESA 02 - C4 - 2 -> SALA 01 - 2: 30.02 m
+MESA 02 - C4 - 2 -> SALA 02 - 1: 26.25 m
+MESA 02 - C4 - 2 -> SALA 02 - 2: 32.02 m
+MESA 02 - C4 - 2 -> B. F: 11.18 m
+MESA 02 - C4 - 2 -> B. M: 19.10 m
+MESA 02 - C4 - 2 -> B. C - 1: 25.02 m
+MESA 02 - C4 - 2 -> B. C - 2: 27.02 m
+MESA 02 - C4 - 2 -> CORREDOR - 1: 18.87 m
+MESA 02 - C4 - 2 -> CORREDOR - 2: 20.00 m
+MESA 02 - C4 - 2 -> ESCADA 1 - 1: 22.83 m
+MESA 02 - C4 - 2 -> ESCADA 1 - 2: 23.32 m
+MESA 02 - C4 - 2 -> ESCADA 2 - 1: 25.00 m
+MESA 02 - C4 - 2 -> ESCADA 2 - 2: 25.61 m
+MESA 02 - C4 - 2 -> ELEVAS - 1: 5.39 m
+MESA 02 - C4 - 2 -> ELEVAS - 2: 5.10 m
+MESA 02 - C4 - 2 -> ELEVAS - 3: 3.16 m
+MESA 02 - C4 - 2 -> ELEVAS - 4: 3.61 m
+MESA 02 - C4 - 2 -> A1 - 1: 21.84 m
+MESA 02 - C4 - 2 -> A1 - 2: 22.14 m
+MESA 02 - C4 - 2 -> A2 - 1: 29.00 m
+MESA 02 - C4 - 2 -> A2 - 2: 29.70 m
+
+SALA 01 - 1 -> PONTO INICIAL - I: 21.38 m
+SALA 01 - 1 -> PONTO FINAL - J: 9.49 m
+SALA 01 - 1 -> LAB 01 - 1: 17.46 m
+SALA 01 - 1 -> LAB 01 - 2: 20.81 m
+SALA 01 - 1 -> LAB 02: 28.32 m
+SALA 01 - 1 -> MESA 01 - 1: 17.72 m
+SALA 01 - 1 -> MESA 01 - 2: 18.38 m
+SALA 01 - 1 -> MESA 01 - 3: 16.55 m
+SALA 01 - 1 -> MESA 01 - 4: 15.81 m
+SALA 01 - 1 -> MESA 01 - C1 - 1: 14.87 m
+SALA 01 - 1 -> MESA 01 - C1 - 2: 15.23 m
+SALA 01 - 1 -> MESA 01 - C2 - 1: 15.52 m
+SALA 01 - 1 -> MESA 01 - C2 - 2: 16.49 m
+SALA 01 - 1 -> MESA 01 - C3 - 1: 17.72 m
+SALA 01 - 1 -> MESA 01 - C3 - 2: 18.03 m
+SALA 01 - 1 -> MESA 01 - C4 - 1: 17.00 m
+SALA 01 - 1 -> MESA 01 - C4 - 2: 17.89 m
+SALA 01 - 1 -> MESA 02 - 1: 24.00 m
+SALA 01 - 1 -> MESA 02 - 2: 23.00 m
+SALA 01 - 1 -> MESA 02 - 3: 23.09 m
+SALA 01 - 1 -> MESA 02 - 4: 24.08 m
+SALA 01 - 1 -> MESA 02 - C1 - 1: 24.08 m
+SALA 01 - 1 -> MESA 02 - C1 - 2: 23.09 m
+SALA 01 - 1 -> MESA 02 - C3 - 1: 24.02 m
+SALA 01 - 1 -> MESA 02 - C3 - 2: 23.02 m
+SALA 01 - 1 -> MESA 02 - C4 - 1: 22.00 m
+SALA 01 - 1 -> MESA 02 - C4 - 2: 22.02 m
+SALA 01 - 1 -> SALA 01 - 1: 0.00 m
+SALA 01 - 1 -> SALA 01 - 2: 8.00 m
+SALA 01 - 1 -> SALA 02 - 1: 19.65 m
+SALA 01 - 1 -> SALA 02 - 2: 19.24 m
+SALA 01 - 1 -> B. F: 11.05 m
+SALA 01 - 1 -> B. M: 3.16 m
+SALA 01 - 1 -> B. C - 1: 3.61 m
+SALA 01 - 1 -> B. C - 2: 5.39 m
+SALA 01 - 1 -> CORREDOR - 1: 10.82 m
+SALA 01 - 1 -> CORREDOR - 2: 12.53 m
+SALA 01 - 1 -> ESCADA 1 - 1: 21.95 m
+SALA 01 - 1 -> ESCADA 1 - 2: 21.47 m
+SALA 01 - 1 -> ESCADA 2 - 1: 20.25 m
+SALA 01 - 1 -> ESCADA 2 - 2: 19.92 m
+SALA 01 - 1 -> ELEVAS - 1: 27.17 m
+SALA 01 - 1 -> ELEVAS - 2: 27.00 m
+SALA 01 - 1 -> ELEVAS - 3: 25.00 m
+SALA 01 - 1 -> ELEVAS - 4: 25.18 m
+SALA 01 - 1 -> A1 - 1: 5.10 m
+SALA 01 - 1 -> A1 - 2: 6.08 m
+SALA 01 - 1 -> A2 - 1: 20.10 m
+SALA 01 - 1 -> A2 - 2: 20.02 m
+
+SALA 01 - 2 -> PONTO INICIAL - I: 24.19 m
+SALA 01 - 2 -> PONTO FINAL - J: 3.16 m
+SALA 01 - 2 -> LAB 01 - 1: 25.32 m
+SALA 01 - 2 -> LAB 01 - 2: 27.73 m
+SALA 01 - 2 -> LAB 02: 34.67 m
+SALA 01 - 2 -> MESA 01 - 1: 17.26 m
+SALA 01 - 2 -> MESA 01 - 2: 17.03 m
+SALA 01 - 2 -> MESA 01 - 3: 15.03 m
+SALA 01 - 2 -> MESA 01 - 4: 15.30 m
+SALA 01 - 2 -> MESA 01 - C1 - 1: 14.32 m
+SALA 01 - 2 -> MESA 01 - C1 - 2: 14.14 m
+SALA 01 - 2 -> MESA 01 - C2 - 1: 15.52 m
+SALA 01 - 2 -> MESA 01 - C2 - 2: 16.49 m
+SALA 01 - 2 -> MESA 01 - C3 - 1: 17.26 m
+SALA 01 - 2 -> MESA 01 - C3 - 2: 17.12 m
+SALA 01 - 2 -> MESA 01 - C4 - 1: 15.00 m
+SALA 01 - 2 -> MESA 01 - C4 - 2: 16.00 m
+SALA 01 - 2 -> MESA 02 - 1: 32.00 m
+SALA 01 - 2 -> MESA 02 - 2: 31.00 m
+SALA 01 - 2 -> MESA 02 - 3: 31.06 m
+SALA 01 - 2 -> MESA 02 - 4: 32.06 m
+SALA 01 - 2 -> MESA 02 - C1 - 1: 32.06 m
+SALA 01 - 2 -> MESA 02 - C1 - 2: 31.06 m
+SALA 01 - 2 -> MESA 02 - C3 - 1: 32.02 m
+SALA 01 - 2 -> MESA 02 - C3 - 2: 31.02 m
+SALA 01 - 2 -> MESA 02 - C4 - 1: 30.00 m
+SALA 01 - 2 -> MESA 02 - C4 - 2: 30.02 m
+SALA 01 - 2 -> SALA 01 - 1: 8.00 m
+SALA 01 - 2 -> SALA 01 - 2: 0.00 m
+SALA 01 - 2 -> SALA 02 - 1: 23.02 m
+SALA 01 - 2 -> SALA 02 - 2: 19.65 m
+SALA 01 - 2 -> B. F: 19.03 m
+SALA 01 - 2 -> B. M: 11.05 m
+SALA 01 - 2 -> B. C - 1: 5.39 m
+SALA 01 - 2 -> B. C - 2: 3.61 m
+SALA 01 - 2 -> CORREDOR - 1: 16.64 m
+SALA 01 - 2 -> CORREDOR - 2: 17.80 m
+SALA 01 - 2 -> ESCADA 1 - 1: 26.87 m
+SALA 01 - 2 -> ESCADA 1 - 2: 26.17 m
+SALA 01 - 2 -> ESCADA 2 - 1: 24.21 m
+SALA 01 - 2 -> ESCADA 2 - 2: 23.60 m
+SALA 01 - 2 -> ELEVAS - 1: 35.13 m
+SALA 01 - 2 -> ELEVAS - 2: 35.00 m
+SALA 01 - 2 -> ELEVAS - 3: 33.00 m
+SALA 01 - 2 -> ELEVAS - 4: 33.14 m
+SALA 01 - 2 -> A1 - 1: 10.30 m
+SALA 01 - 2 -> A1 - 2: 10.82 m
+SALA 01 - 2 -> A2 - 1: 22.36 m
+SALA 01 - 2 -> A2 - 2: 21.93 m
+
+SALA 02 - 1 -> PONTO INICIAL - I: 2.24 m
+SALA 02 - 1 -> PONTO FINAL - J: 21.26 m
+SALA 02 - 1 -> LAB 01 - 1: 19.21 m
+SALA 02 - 1 -> LAB 01 - 2: 13.89 m
+SALA 02 - 1 -> LAB 02: 16.00 m
+SALA 02 - 1 -> MESA 01 - 1: 10.20 m
+SALA 02 - 1 -> MESA 01 - 2: 12.17 m
+SALA 02 - 1 -> MESA 01 - 3: 12.65 m
+SALA 02 - 1 -> MESA 01 - 4: 10.77 m
+SALA 02 - 1 -> MESA 01 - C1 - 1: 11.18 m
+SALA 02 - 1 -> MESA 01 - C1 - 2: 12.08 m
+SALA 02 - 1 -> MESA 01 - C2 - 1: 9.85 m
+SALA 02 - 1 -> MESA 01 - C2 - 2: 9.49 m
+SALA 02 - 1 -> MESA 01 - C3 - 1: 10.20 m
+SALA 02 - 1 -> MESA 01 - C3 - 2: 11.18 m
+SALA 02 - 1 -> MESA 01 - C4 - 1: 13.60 m
+SALA 02 - 1 -> MESA 01 - C4 - 2: 13.34 m
+SALA 02 - 1 -> MESA 02 - 1: 26.87 m
+SALA 02 - 1 -> MESA 02 - 2: 26.17 m
+SALA 02 - 1 -> MESA 02 - 3: 27.66 m
+SALA 02 - 1 -> MESA 02 - 4: 28.32 m
+SALA 02 - 1 -> MESA 02 - C1 - 1: 28.32 m
+SALA 02 - 1 -> MESA 02 - C1 - 2: 27.66 m
+SALA 02 - 1 -> MESA 02 - C3 - 1: 26.17 m
+SALA 02 - 1 -> MESA 02 - C3 - 2: 25.46 m
+SALA 02 - 1 -> MESA 02 - C4 - 1: 25.50 m
+SALA 02 - 1 -> MESA 02 - C4 - 2: 26.25 m
+SALA 02 - 1 -> SALA 01 - 1: 19.65 m
+SALA 02 - 1 -> SALA 01 - 2: 23.02 m
+SALA 02 - 1 -> SALA 02 - 1: 0.00 m
+SALA 02 - 1 -> SALA 02 - 2: 8.00 m
+SALA 02 - 1 -> B. F: 18.97 m
+SALA 02 - 1 -> B. M: 18.11 m
+SALA 02 - 1 -> B. C - 1: 22.47 m
+SALA 02 - 1 -> B. C - 2: 23.26 m
+SALA 02 - 1 -> CORREDOR - 1: 10.05 m
+SALA 02 - 1 -> CORREDOR - 2: 8.06 m
+SALA 02 - 1 -> ESCADA 1 - 1: 6.00 m
+SALA 02 - 1 -> ESCADA 1 - 2: 5.00 m
+SALA 02 - 1 -> ESCADA 2 - 1: 2.00 m
+SALA 02 - 1 -> ESCADA 2 - 2: 1.00 m
+SALA 02 - 1 -> ELEVAS - 1: 31.11 m
+SALA 02 - 1 -> ELEVAS - 2: 29.07 m
+SALA 02 - 1 -> ELEVAS - 3: 27.59 m
+SALA 02 - 1 -> ELEVAS - 4: 29.73 m
+SALA 02 - 1 -> A1 - 1: 14.56 m
+SALA 02 - 1 -> A1 - 2: 13.60 m
+SALA 02 - 1 -> A2 - 1: 3.16 m
+SALA 02 - 1 -> A2 - 2: 4.12 m
+
+SALA 02 - 2 -> PONTO INICIAL - I: 7.28 m
+SALA 02 - 2 -> PONTO FINAL - J: 17.09 m
+SALA 02 - 2 -> LAB 01 - 1: 25.00 m
+SALA 02 - 2 -> LAB 01 - 2: 21.19 m
+SALA 02 - 2 -> LAB 02: 24.00 m
+SALA 02 - 2 -> MESA 01 - 1: 2.83 m
+SALA 02 - 2 -> MESA 01 - 2: 4.47 m
+SALA 02 - 2 -> MESA 01 - 3: 5.66 m
+SALA 02 - 2 -> MESA 01 - 4: 4.47 m
+SALA 02 - 2 -> MESA 01 - C1 - 1: 5.39 m
+SALA 02 - 2 -> MESA 01 - C1 - 2: 5.83 m
+SALA 02 - 2 -> MESA 01 - C2 - 1: 4.12 m
+SALA 02 - 2 -> MESA 01 - C2 - 2: 3.16 m
+SALA 02 - 2 -> MESA 01 - C3 - 1: 2.83 m
+SALA 02 - 2 -> MESA 01 - C3 - 2: 3.61 m
+SALA 02 - 2 -> MESA 01 - C4 - 1: 6.40 m
+SALA 02 - 2 -> MESA 01 - C4 - 2: 5.83 m
+SALA 02 - 2 -> MESA 02 - 1: 33.02 m
+SALA 02 - 2 -> MESA 02 - 2: 32.20 m
+SALA 02 - 2 -> MESA 02 - 3: 33.42 m
+SALA 02 - 2 -> MESA 02 - 4: 34.21 m
+SALA 02 - 2 -> MESA 02 - C1 - 1: 34.21 m
+SALA 02 - 2 -> MESA 02 - C1 - 2: 33.42 m
+SALA 02 - 2 -> MESA 02 - C3 - 1: 32.45 m
+SALA 02 - 2 -> MESA 02 - C3 - 2: 31.62 m
+SALA 02 - 2 -> MESA 02 - C4 - 1: 31.40 m
+SALA 02 - 2 -> MESA 02 - C4 - 2: 32.02 m
+SALA 02 - 2 -> SALA 01 - 1: 19.24 m
+SALA 02 - 2 -> SALA 01 - 2: 19.65 m
+SALA 02 - 2 -> SALA 02 - 1: 8.00 m
+SALA 02 - 2 -> SALA 02 - 2: 0.00 m
+SALA 02 - 2 -> B. F: 22.80 m
+SALA 02 - 2 -> B. M: 18.97 m
+SALA 02 - 2 -> B. C - 1: 21.00 m
+SALA 02 - 2 -> B. C - 2: 21.10 m
+SALA 02 - 2 -> CORREDOR - 1: 13.45 m
+SALA 02 - 2 -> CORREDOR - 2: 12.04 m
+SALA 02 - 2 -> ESCADA 1 - 1: 14.00 m
+SALA 02 - 2 -> ESCADA 1 - 2: 13.00 m
+SALA 02 - 2 -> ESCADA 2 - 1: 10.00 m
+SALA 02 - 2 -> ESCADA 2 - 2: 9.00 m
+SALA 02 - 2 -> ELEVAS - 1: 37.20 m
+SALA 02 - 2 -> ELEVAS - 2: 35.51 m
+SALA 02 - 2 -> ELEVAS - 3: 33.84 m
+SALA 02 - 2 -> ELEVAS - 4: 35.61 m
+SALA 02 - 2 -> A1 - 1: 14.56 m
+SALA 02 - 2 -> A1 - 2: 13.60 m
+SALA 02 - 2 -> A2 - 1: 5.10 m
+SALA 02 - 2 -> A2 - 2: 4.12 m
+
+B. F -> PONTO INICIAL - I: 21.19 m
+B. F -> PONTO FINAL - J: 20.10 m
+B. F -> LAB 01 - 1: 6.71 m
+B. F -> LAB 01 - 2: 12.53 m
+B. F -> LAB 02: 20.59 m
+B. F -> MESA 01 - 1: 22.63 m
+B. F -> MESA 01 - 2: 24.08 m
+B. F -> MESA 01 - 3: 22.80 m
+B. F -> MESA 01 - 4: 21.26 m
+B. F -> MESA 01 - C1 - 1: 20.62 m
+B. F -> MESA 01 - C1 - 2: 21.40 m
+B. F -> MESA 01 - C2 - 1: 20.52 m
+B. F -> MESA 01 - C2 - 2: 21.21 m
+B. F -> MESA 01 - C3 - 1: 22.63 m
+B. F -> MESA 01 - C3 - 2: 23.35 m
+B. F -> MESA 01 - C4 - 1: 23.60 m
+B. F -> MESA 01 - C4 - 2: 24.21 m
+B. F -> MESA 02 - 1: 13.04 m
+B. F -> MESA 02 - 2: 12.04 m
+B. F -> MESA 02 - 3: 12.37 m
+B. F -> MESA 02 - 4: 13.34 m
+B. F -> MESA 02 - C1 - 1: 13.34 m
+B. F -> MESA 02 - C1 - 2: 12.37 m
+B. F -> MESA 02 - C3 - 1: 13.00 m
+B. F -> MESA 02 - C3 - 2: 12.00 m
+B. F -> MESA 02 - C4 - 1: 11.05 m
+B. F -> MESA 02 - C4 - 2: 11.18 m
+B. F -> SALA 01 - 1: 11.05 m
+B. F -> SALA 01 - 2: 19.03 m
+B. F -> SALA 02 - 1: 18.97 m
+B. F -> SALA 02 - 2: 22.80 m
+B. F -> B. F: 0.00 m
+B. F -> B. M: 8.00 m
+B. F -> B. C - 1: 14.32 m
+B. F -> B. C - 2: 16.28 m
+B. F -> CORREDOR - 1: 9.43 m
+B. F -> CORREDOR - 2: 11.18 m
+B. F -> ESCADA 1 - 1: 18.00 m
+B. F -> ESCADA 1 - 2: 18.03 m
+B. F -> ESCADA 2 - 1: 18.44 m
+B. F -> ESCADA 2 - 2: 18.68 m
+B. F -> ELEVAS - 1: 16.49 m
+B. F -> ELEVAS - 2: 16.03 m
+B. F -> ELEVAS - 3: 14.04 m
+B. F -> ELEVAS - 4: 14.56 m
+B. F -> A1 - 1: 10.77 m
+B. F -> A1 - 2: 11.18 m
+B. F -> A2 - 1: 21.02 m
+B. F -> A2 - 2: 21.47 m
+
+B. M -> PONTO INICIAL - I: 20.02 m
+B. M -> PONTO FINAL - J: 12.17 m
+B. M -> LAB 01 - 1: 14.32 m
+B. M -> LAB 01 - 2: 17.80 m
+B. M -> LAB 02: 25.46 m
+B. M -> MESA 01 - 1: 17.89 m
+B. M -> MESA 01 - 2: 18.87 m
+B. M -> MESA 01 - 3: 17.20 m
+B. M -> MESA 01 - 4: 16.12 m
+B. M -> MESA 01 - C1 - 1: 15.26 m
+B. M -> MESA 01 - C1 - 2: 15.81 m
+B. M -> MESA 01 - C2 - 1: 15.65 m
+B. M -> MESA 01 - C2 - 2: 16.55 m
+B. M -> MESA 01 - C3 - 1: 17.89 m
+B. M -> MESA 01 - C3 - 2: 18.36 m
+B. M -> MESA 01 - C4 - 1: 17.80 m
+B. M -> MESA 01 - C4 - 2: 18.60 m
+B. M -> MESA 02 - 1: 21.02 m
+B. M -> MESA 02 - 2: 20.02 m
+B. M -> MESA 02 - 3: 20.22 m
+B. M -> MESA 02 - 4: 21.21 m
+B. M -> MESA 02 - C1 - 1: 21.21 m
+B. M -> MESA 02 - C1 - 2: 20.22 m
+B. M -> MESA 02 - C3 - 1: 21.00 m
+B. M -> MESA 02 - C3 - 2: 20.00 m
+B. M -> MESA 02 - C4 - 1: 19.03 m
+B. M -> MESA 02 - C4 - 2: 19.10 m
+B. M -> SALA 01 - 1: 3.16 m
+B. M -> SALA 01 - 2: 11.05 m
+B. M -> SALA 02 - 1: 18.11 m
+B. M -> SALA 02 - 2: 18.97 m
+B. M -> B. F: 8.00 m
+B. M -> B. M: 0.00 m
+B. M -> B. C - 1: 6.71 m
+B. M -> B. C - 2: 8.54 m
+B. M -> CORREDOR - 1: 8.54 m
+B. M -> CORREDOR - 2: 10.44 m
+B. M -> ESCADA 1 - 1: 19.70 m
+B. M -> ESCADA 1 - 2: 19.31 m
+B. M -> ESCADA 2 - 1: 18.44 m
+B. M -> ESCADA 2 - 2: 18.25 m
+B. M -> ELEVAS - 1: 24.33 m
+B. M -> ELEVAS - 2: 24.02 m
+B. M -> ELEVAS - 3: 22.02 m
+B. M -> ELEVAS - 4: 22.36 m
+B. M -> A1 - 1: 4.47 m
+B. M -> A1 - 2: 5.39 m
+B. M -> A2 - 1: 19.03 m
+B. M -> A2 - 2: 19.10 m
+
+B. C - 1 -> PONTO INICIAL - I: 24.04 m
+B. C - 1 -> PONTO FINAL - J: 7.81 m
+B. C - 1 -> LAB 01 - 1: 20.88 m
+B. C - 1 -> LAB 01 - 2: 24.41 m
+B. C - 1 -> LAB 02: 31.89 m
+B. C - 1 -> MESA 01 - 1: 19.10 m
+B. C - 1 -> MESA 01 - 2: 19.42 m
+B. C - 1 -> MESA 01 - 3: 17.46 m
+B. C - 1 -> MESA 01 - 4: 17.12 m
+B. C - 1 -> MESA 01 - C1 - 1: 16.12 m
+B. C - 1 -> MESA 01 - C1 - 2: 16.28 m
+B. C - 1 -> MESA 01 - C2 - 1: 17.03 m
+B. C - 1 -> MESA 01 - C2 - 2: 18.03 m
+B. C - 1 -> MESA 01 - C3 - 1: 19.10 m
+B. C - 1 -> MESA 01 - C3 - 2: 19.24 m
+B. C - 1 -> MESA 01 - C4 - 1: 17.72 m
+B. C - 1 -> MESA 01 - C4 - 2: 18.68 m
+B. C - 1 -> MESA 02 - 1: 27.07 m
+B. C - 1 -> MESA 02 - 2: 26.08 m
+B. C - 1 -> MESA 02 - 3: 26.00 m
+B. C - 1 -> MESA 02 - 4: 27.00 m
+B. C - 1 -> MESA 02 - C1 - 1: 27.00 m
+B. C - 1 -> MESA 02 - C1 - 2: 26.00 m
+B. C - 1 -> MESA 02 - C3 - 1: 27.17 m
+B. C - 1 -> MESA 02 - C3 - 2: 26.17 m
+B. C - 1 -> MESA 02 - C4 - 1: 25.08 m
+B. C - 1 -> MESA 02 - C4 - 2: 25.02 m
+B. C - 1 -> SALA 01 - 1: 3.61 m
+B. C - 1 -> SALA 01 - 2: 5.39 m
+B. C - 1 -> SALA 02 - 1: 22.47 m
+B. C - 1 -> SALA 02 - 2: 21.00 m
+B. C - 1 -> B. F: 14.32 m
+B. C - 1 -> B. M: 6.71 m
+B. C - 1 -> B. C - 1: 0.00 m
+B. C - 1 -> B. C - 2: 2.00 m
+B. C - 1 -> CORREDOR - 1: 14.21 m
+B. C - 1 -> CORREDOR - 2: 15.81 m
+B. C - 1 -> ESCADA 1 - 1: 25.24 m
+B. C - 1 -> ESCADA 1 - 2: 24.70 m
+B. C - 1 -> ESCADA 2 - 1: 23.26 m
+B. C - 1 -> ESCADA 2 - 2: 22.85 m
+B. C - 1 -> ELEVAS - 1: 30.02 m
+B. C - 1 -> ELEVAS - 2: 30.07 m
+B. C - 1 -> ELEVAS - 3: 28.07 m
+B. C - 1 -> ELEVAS - 4: 28.02 m
+B. C - 1 -> A1 - 1: 8.06 m
+B. C - 1 -> A1 - 2: 8.94 m
+B. C - 1 -> A2 - 1: 22.56 m
+B. C - 1 -> A2 - 2: 22.36 m
+
+B. C - 2 -> PONTO INICIAL - I: 24.70 m
+B. C - 2 -> PONTO FINAL - J: 6.40 m
+B. C - 2 -> LAB 01 - 1: 22.80 m
+B. C - 2 -> LAB 01 - 2: 26.08 m
+B. C - 2 -> LAB 02: 33.42 m
+B. C - 2 -> MESA 01 - 1: 19.00 m
+B. C - 2 -> MESA 01 - 2: 19.10 m
+B. C - 2 -> MESA 01 - 3: 17.12 m
+B. C - 2 -> MESA 01 - 4: 17.00 m
+B. C - 2 -> MESA 01 - C1 - 1: 16.00 m
+B. C - 2 -> MESA 01 - C1 - 2: 16.03 m
+B. C - 2 -> MESA 01 - C2 - 1: 17.03 m
+B. C - 2 -> MESA 01 - C2 - 2: 18.03 m
+B. C - 2 -> MESA 01 - C3 - 1: 19.00 m
+B. C - 2 -> MESA 01 - C3 - 2: 19.03 m
+B. C - 2 -> MESA 01 - C4 - 1: 17.26 m
+B. C - 2 -> MESA 01 - C4 - 2: 18.25 m
+B. C - 2 -> MESA 02 - 1: 29.07 m
+B. C - 2 -> MESA 02 - 2: 28.07 m
+B. C - 2 -> MESA 02 - 3: 28.00 m
+B. C - 2 -> MESA 02 - 4: 29.00 m
+B. C - 2 -> MESA 02 - C1 - 1: 29.00 m
+B. C - 2 -> MESA 02 - C1 - 2: 28.00 m
+B. C - 2 -> MESA 02 - C3 - 1: 29.15 m
+B. C - 2 -> MESA 02 - C3 - 2: 28.16 m
+B. C - 2 -> MESA 02 - C4 - 1: 27.07 m
+B. C - 2 -> MESA 02 - C4 - 2: 27.02 m
+B. C - 2 -> SALA 01 - 1: 5.39 m
+B. C - 2 -> SALA 01 - 2: 3.61 m
+B. C - 2 -> SALA 02 - 1: 23.26 m
+B. C - 2 -> SALA 02 - 2: 21.10 m
+B. C - 2 -> B. F: 16.28 m
+B. C - 2 -> B. M: 8.54 m
+B. C - 2 -> B. C - 1: 2.00 m
+B. C - 2 -> B. C - 2: 0.00 m
+B. C - 2 -> CORREDOR - 1: 15.56 m
+B. C - 2 -> CORREDOR - 2: 17.03 m
+B. C - 2 -> ESCADA 1 - 1: 26.40 m
+B. C - 2 -> ESCADA 1 - 2: 25.81 m
+B. C - 2 -> ESCADA 2 - 1: 24.19 m
+B. C - 2 -> ESCADA 2 - 2: 23.71 m
+B. C - 2 -> ELEVAS - 1: 32.02 m
+B. C - 2 -> ELEVAS - 2: 32.06 m
+B. C - 2 -> ELEVAS - 3: 30.07 m
+B. C - 2 -> ELEVAS - 4: 30.02 m
+B. C - 2 -> A1 - 1: 9.22 m
+B. C - 2 -> A1 - 2: 10.00 m
+B. C - 2 -> A2 - 1: 23.09 m
+B. C - 2 -> A2 - 2: 22.80 m
+
+CORREDOR - 1 -> PONTO INICIAL - I: 12.17 m
+CORREDOR - 1 -> PONTO FINAL - J: 16.16 m
+CORREDOR - 1 -> LAB 01 - 1: 12.08 m
+CORREDOR - 1 -> LAB 01 - 2: 11.40 m
+CORREDOR - 1 -> LAB 02: 18.03 m
+CORREDOR - 1 -> MESA 01 - 1: 13.60 m
+CORREDOR - 1 -> MESA 01 - 2: 15.26 m
+CORREDOR - 1 -> MESA 01 - 3: 14.32 m
+CORREDOR - 1 -> MESA 01 - 4: 12.53 m
+CORREDOR - 1 -> MESA 01 - C1 - 1: 12.08 m
+CORREDOR - 1 -> MESA 01 - C1 - 2: 13.00 m
+CORREDOR - 1 -> MESA 01 - C2 - 1: 11.66 m
+CORREDOR - 1 -> MESA 01 - C2 - 2: 12.21 m
+CORREDOR - 1 -> MESA 01 - C3 - 1: 13.60 m
+CORREDOR - 1 -> MESA 01 - C3 - 2: 14.42 m
+CORREDOR - 1 -> MESA 01 - C4 - 1: 15.23 m
+CORREDOR - 1 -> MESA 01 - C4 - 2: 15.65 m
+CORREDOR - 1 -> MESA 02 - 1: 20.12 m
+CORREDOR - 1 -> MESA 02 - 2: 19.24 m
+CORREDOR - 1 -> MESA 02 - 3: 20.25 m
+CORREDOR - 1 -> MESA 02 - 4: 21.10 m
+CORREDOR - 1 -> MESA 02 - C1 - 1: 21.10 m
+CORREDOR - 1 -> MESA 02 - C1 - 2: 20.25 m
+CORREDOR - 1 -> MESA 02 - C3 - 1: 19.70 m
+CORREDOR - 1 -> MESA 02 - C3 - 2: 18.79 m
+CORREDOR - 1 -> MESA 02 - C4 - 1: 18.36 m
+CORREDOR - 1 -> MESA 02 - C4 - 2: 18.87 m
+CORREDOR - 1 -> SALA 01 - 1: 10.82 m
+CORREDOR - 1 -> SALA 01 - 2: 16.64 m
+CORREDOR - 1 -> SALA 02 - 1: 10.05 m
+CORREDOR - 1 -> SALA 02 - 2: 13.45 m
+CORREDOR - 1 -> B. F: 9.43 m
+CORREDOR - 1 -> B. M: 8.54 m
+CORREDOR - 1 -> B. C - 1: 14.21 m
+CORREDOR - 1 -> B. C - 2: 15.56 m
+CORREDOR - 1 -> CORREDOR - 1: 0.00 m
+CORREDOR - 1 -> CORREDOR - 2: 2.00 m
+CORREDOR - 1 -> ESCADA 1 - 1: 11.18 m
+CORREDOR - 1 -> ESCADA 1 - 2: 10.77 m
+CORREDOR - 1 -> ESCADA 2 - 1: 10.05 m
+CORREDOR - 1 -> ESCADA 2 - 2: 10.00 m
+CORREDOR - 1 -> ELEVAS - 1: 24.19 m
+CORREDOR - 1 -> ELEVAS - 2: 22.85 m
+CORREDOR - 1 -> ELEVAS - 3: 21.02 m
+CORREDOR - 1 -> ELEVAS - 4: 22.47 m
+CORREDOR - 1 -> A1 - 1: 6.40 m
+CORREDOR - 1 -> A1 - 2: 5.83 m
+CORREDOR - 1 -> A2 - 1: 11.70 m
+CORREDOR - 1 -> A2 - 2: 12.08 m
+
+CORREDOR - 2 -> PONTO INICIAL - I: 10.20 m
+CORREDOR - 2 -> PONTO FINAL - J: 17.00 m
+CORREDOR - 2 -> LAB 01 - 1: 13.04 m
+CORREDOR - 2 -> LAB 01 - 2: 11.05 m
+CORREDOR - 2 -> LAB 02: 17.00 m
+CORREDOR - 2 -> MESA 01 - 1: 12.53 m
+CORREDOR - 2 -> MESA 01 - 2: 14.32 m
+CORREDOR - 2 -> MESA 01 - 3: 13.60 m
+CORREDOR - 2 -> MESA 01 - 4: 11.70 m
+CORREDOR - 2 -> MESA 01 - C1 - 1: 11.40 m
+CORREDOR - 2 -> MESA 01 - C1 - 2: 12.37 m
+CORREDOR - 2 -> MESA 01 - C2 - 1: 10.77 m
+CORREDOR - 2 -> MESA 01 - C2 - 2: 11.18 m
+CORREDOR - 2 -> MESA 01 - C3 - 1: 12.53 m
+CORREDOR - 2 -> MESA 01 - C3 - 2: 13.42 m
+CORREDOR - 2 -> MESA 01 - C4 - 1: 14.56 m
+CORREDOR - 2 -> MESA 01 - C4 - 2: 14.87 m
+CORREDOR - 2 -> MESA 02 - 1: 21.10 m
+CORREDOR - 2 -> MESA 02 - 2: 20.25 m
+CORREDOR - 2 -> MESA 02 - 3: 21.40 m
+CORREDOR - 2 -> MESA 02 - 4: 22.20 m
+CORREDOR - 2 -> MESA 02 - C1 - 1: 22.20 m
+CORREDOR - 2 -> MESA 02 - C1 - 2: 21.40 m
+CORREDOR - 2 -> MESA 02 - C3 - 1: 20.59 m
+CORREDOR - 2 -> MESA 02 - C3 - 2: 19.72 m
+CORREDOR - 2 -> MESA 02 - C4 - 1: 19.42 m
+CORREDOR - 2 -> MESA 02 - C4 - 2: 20.00 m
+CORREDOR - 2 -> SALA 01 - 1: 12.53 m
+CORREDOR - 2 -> SALA 01 - 2: 17.80 m
+CORREDOR - 2 -> SALA 02 - 1: 8.06 m
+CORREDOR - 2 -> SALA 02 - 2: 12.04 m
+CORREDOR - 2 -> B. F: 11.18 m
+CORREDOR - 2 -> B. M: 10.44 m
+CORREDOR - 2 -> B. C - 1: 15.81 m
+CORREDOR - 2 -> B. C - 2: 17.03 m
+CORREDOR - 2 -> CORREDOR - 1: 2.00 m
+CORREDOR - 2 -> CORREDOR - 2: 0.00 m
+CORREDOR - 2 -> ESCADA 1 - 1: 9.43 m
+CORREDOR - 2 -> ESCADA 1 - 2: 8.94 m
+CORREDOR - 2 -> ESCADA 2 - 1: 8.06 m
+CORREDOR - 2 -> ESCADA 2 - 2: 8.00 m
+CORREDOR - 2 -> ELEVAS - 1: 25.24 m
+CORREDOR - 2 -> ELEVAS - 2: 23.71 m
+CORREDOR - 2 -> ELEVAS - 3: 21.95 m
+CORREDOR - 2 -> ELEVAS - 4: 23.60 m
+CORREDOR - 2 -> A1 - 1: 7.81 m
+CORREDOR - 2 -> A1 - 2: 7.07 m
+CORREDOR - 2 -> A2 - 1: 9.85 m
+CORREDOR - 2 -> A2 - 2: 10.30 m
+
+ESCADA 1 - 1 -> PONTO INICIAL - I: 7.28 m
+ESCADA 1 - 1 -> PONTO FINAL - J: 25.61 m
+ESCADA 1 - 1 -> LAB 01 - 1: 16.16 m
+ESCADA 1 - 1 -> LAB 01 - 2: 9.22 m
+ESCADA 1 - 1 -> LAB 02: 10.00 m
+ESCADA 1 - 1 -> MESA 01 - 1: 16.12 m
+ESCADA 1 - 1 -> MESA 01 - 2: 18.11 m
+ESCADA 1 - 1 -> MESA 01 - 3: 18.44 m
+ESCADA 1 - 1 -> MESA 01 - 4: 16.49 m
+ESCADA 1 - 1 -> MESA 01 - C1 - 1: 16.76 m
+ESCADA 1 - 1 -> MESA 01 - C1 - 2: 17.72 m
+ESCADA 1 - 1 -> MESA 01 - C2 - 1: 15.52 m
+ESCADA 1 - 1 -> MESA 01 - C2 - 2: 15.30 m
+ESCADA 1 - 1 -> MESA 01 - C3 - 1: 16.12 m
+ESCADA 1 - 1 -> MESA 01 - C3 - 2: 17.12 m
+ESCADA 1 - 1 -> MESA 01 - C4 - 1: 19.42 m
+ESCADA 1 - 1 -> MESA 01 - C4 - 2: 19.24 m
+ESCADA 1 - 1 -> MESA 02 - 1: 23.02 m
+ESCADA 1 - 1 -> MESA 02 - 2: 22.47 m
+ESCADA 1 - 1 -> MESA 02 - 3: 24.19 m
+ESCADA 1 - 1 -> MESA 02 - 4: 24.70 m
+ESCADA 1 - 1 -> MESA 02 - C1 - 1: 24.70 m
+ESCADA 1 - 1 -> MESA 02 - C1 - 2: 24.19 m
+ESCADA 1 - 1 -> MESA 02 - C3 - 1: 22.20 m
+ESCADA 1 - 1 -> MESA 02 - C3 - 2: 21.63 m
+ESCADA 1 - 1 -> MESA 02 - C4 - 1: 21.95 m
+ESCADA 1 - 1 -> MESA 02 - C4 - 2: 22.83 m
+ESCADA 1 - 1 -> SALA 01 - 1: 21.95 m
+ESCADA 1 - 1 -> SALA 01 - 2: 26.87 m
+ESCADA 1 - 1 -> SALA 02 - 1: 6.00 m
+ESCADA 1 - 1 -> SALA 02 - 2: 14.00 m
+ESCADA 1 - 1 -> B. F: 18.00 m
+ESCADA 1 - 1 -> B. M: 19.70 m
+ESCADA 1 - 1 -> B. C - 1: 25.24 m
+ESCADA 1 - 1 -> B. C - 2: 26.40 m
+ESCADA 1 - 1 -> CORREDOR - 1: 11.18 m
+ESCADA 1 - 1 -> CORREDOR - 2: 9.43 m
+ESCADA 1 - 1 -> ESCADA 1 - 1: 0.00 m
+ESCADA 1 - 1 -> ESCADA 1 - 2: 1.00 m
+ESCADA 1 - 1 -> ESCADA 2 - 1: 4.00 m
+ESCADA 1 - 1 -> ESCADA 2 - 2: 5.00 m
+ESCADA 1 - 1 -> ELEVAS - 1: 27.20 m
+ESCADA 1 - 1 -> ELEVAS - 2: 24.84 m
+ESCADA 1 - 1 -> ELEVAS - 3: 23.60 m
+ESCADA 1 - 1 -> ELEVAS - 4: 26.08 m
+ESCADA 1 - 1 -> A1 - 1: 17.20 m
+ESCADA 1 - 1 -> A1 - 2: 16.40 m
+ESCADA 1 - 1 -> A2 - 1: 9.06 m
+ESCADA 1 - 1 -> A2 - 2: 10.05 m
+
+ESCADA 1 - 2 -> PONTO INICIAL - I: 6.32 m
+ESCADA 1 - 2 -> PONTO FINAL - J: 24.84 m
+ESCADA 1 - 2 -> LAB 01 - 1: 16.55 m
+ESCADA 1 - 2 -> LAB 01 - 2: 9.90 m
+ESCADA 1 - 2 -> LAB 02: 11.00 m
+ESCADA 1 - 2 -> MESA 01 - 1: 15.13 m
+ESCADA 1 - 2 -> MESA 01 - 2: 17.12 m
+ESCADA 1 - 2 -> MESA 01 - 3: 17.46 m
+ESCADA 1 - 2 -> MESA 01 - 4: 15.52 m
+ESCADA 1 - 2 -> MESA 01 - C1 - 1: 15.81 m
+ESCADA 1 - 2 -> MESA 01 - C1 - 2: 16.76 m
+ESCADA 1 - 2 -> MESA 01 - C2 - 1: 14.56 m
+ESCADA 1 - 2 -> MESA 01 - C2 - 2: 14.32 m
+ESCADA 1 - 2 -> MESA 01 - C3 - 1: 15.13 m
+ESCADA 1 - 2 -> MESA 01 - C3 - 2: 16.12 m
+ESCADA 1 - 2 -> MESA 01 - C4 - 1: 18.44 m
+ESCADA 1 - 2 -> MESA 01 - C4 - 2: 18.25 m
+ESCADA 1 - 2 -> MESA 02 - 1: 23.60 m
+ESCADA 1 - 2 -> MESA 02 - 2: 23.02 m
+ESCADA 1 - 2 -> MESA 02 - 3: 24.70 m
+ESCADA 1 - 2 -> MESA 02 - 4: 25.24 m
+ESCADA 1 - 2 -> MESA 02 - C1 - 1: 25.24 m
+ESCADA 1 - 2 -> MESA 02 - C1 - 2: 24.70 m
+ESCADA 1 - 2 -> MESA 02 - C3 - 1: 22.80 m
+ESCADA 1 - 2 -> MESA 02 - C3 - 2: 22.20 m
+ESCADA 1 - 2 -> MESA 02 - C4 - 1: 22.47 m
+ESCADA 1 - 2 -> MESA 02 - C4 - 2: 23.32 m
+ESCADA 1 - 2 -> SALA 01 - 1: 21.47 m
+ESCADA 1 - 2 -> SALA 01 - 2: 26.17 m
+ESCADA 1 - 2 -> SALA 02 - 1: 5.00 m
+ESCADA 1 - 2 -> SALA 02 - 2: 13.00 m
+ESCADA 1 - 2 -> B. F: 18.03 m
+ESCADA 1 - 2 -> B. M: 19.31 m
+ESCADA 1 - 2 -> B. C - 1: 24.70 m
+ESCADA 1 - 2 -> B. C - 2: 25.81 m
+ESCADA 1 - 2 -> CORREDOR - 1: 10.77 m
+ESCADA 1 - 2 -> CORREDOR - 2: 8.94 m
+ESCADA 1 - 2 -> ESCADA 1 - 1: 1.00 m
+ESCADA 1 - 2 -> ESCADA 1 - 2: 0.00 m
+ESCADA 1 - 2 -> ESCADA 2 - 1: 3.00 m
+ESCADA 1 - 2 -> ESCADA 2 - 2: 4.00 m
+ESCADA 1 - 2 -> ELEVAS - 1: 27.80 m
+ESCADA 1 - 2 -> ELEVAS - 2: 25.50 m
+ESCADA 1 - 2 -> ELEVAS - 3: 24.21 m
+ESCADA 1 - 2 -> ELEVAS - 4: 26.63 m
+ESCADA 1 - 2 -> A1 - 1: 16.64 m
+ESCADA 1 - 2 -> A1 - 2: 15.81 m
+ESCADA 1 - 2 -> A2 - 1: 8.06 m
+ESCADA 1 - 2 -> A2 - 2: 9.06 m
+
+ESCADA 2 - 1 -> PONTO INICIAL - I: 3.61 m
+ESCADA 2 - 1 -> PONTO FINAL - J: 22.63 m
+ESCADA 2 - 1 -> LAB 01 - 1: 18.03 m
+ESCADA 2 - 1 -> LAB 01 - 2: 12.21 m
+ESCADA 2 - 1 -> LAB 02: 14.00 m
+ESCADA 2 - 1 -> MESA 01 - 1: 12.17 m
+ESCADA 2 - 1 -> MESA 01 - 2: 14.14 m
+ESCADA 2 - 1 -> MESA 01 - 3: 14.56 m
+ESCADA 2 - 1 -> MESA 01 - 4: 12.65 m
+ESCADA 2 - 1 -> MESA 01 - C1 - 1: 13.00 m
+ESCADA 2 - 1 -> MESA 01 - C1 - 2: 13.93 m
+ESCADA 2 - 1 -> MESA 01 - C2 - 1: 11.70 m
+ESCADA 2 - 1 -> MESA 01 - C2 - 2: 11.40 m
+ESCADA 2 - 1 -> MESA 01 - C3 - 1: 12.17 m
+ESCADA 2 - 1 -> MESA 01 - C3 - 2: 13.15 m
+ESCADA 2 - 1 -> MESA 01 - C4 - 1: 15.52 m
+ESCADA 2 - 1 -> MESA 01 - C4 - 2: 15.30 m
+ESCADA 2 - 1 -> MESA 02 - 1: 25.50 m
+ESCADA 2 - 1 -> MESA 02 - 2: 24.84 m
+ESCADA 2 - 1 -> MESA 02 - 3: 26.40 m
+ESCADA 2 - 1 -> MESA 02 - 4: 27.02 m
+ESCADA 2 - 1 -> MESA 02 - C1 - 1: 27.02 m
+ESCADA 2 - 1 -> MESA 02 - C1 - 2: 26.40 m
+ESCADA 2 - 1 -> MESA 02 - C3 - 1: 24.76 m
+ESCADA 2 - 1 -> MESA 02 - C3 - 2: 24.08 m
+ESCADA 2 - 1 -> MESA 02 - C4 - 1: 24.21 m
+ESCADA 2 - 1 -> MESA 02 - C4 - 2: 25.00 m
+ESCADA 2 - 1 -> SALA 01 - 1: 20.25 m
+ESCADA 2 - 1 -> SALA 01 - 2: 24.21 m
+ESCADA 2 - 1 -> SALA 02 - 1: 2.00 m
+ESCADA 2 - 1 -> SALA 02 - 2: 10.00 m
+ESCADA 2 - 1 -> B. F: 18.44 m
+ESCADA 2 - 1 -> B. M: 18.44 m
+ESCADA 2 - 1 -> B. C - 1: 23.26 m
+ESCADA 2 - 1 -> B. C - 2: 24.19 m
+ESCADA 2 - 1 -> CORREDOR - 1: 10.05 m
+ESCADA 2 - 1 -> CORREDOR - 2: 8.06 m
+ESCADA 2 - 1 -> ESCADA 1 - 1: 4.00 m
+ESCADA 2 - 1 -> ESCADA 1 - 2: 3.00 m
+ESCADA 2 - 1 -> ESCADA 2 - 1: 0.00 m
+ESCADA 2 - 1 -> ESCADA 2 - 2: 1.00 m
+ESCADA 2 - 1 -> ELEVAS - 1: 29.73 m
+ESCADA 2 - 1 -> ELEVAS - 2: 27.59 m
+ESCADA 2 - 1 -> ELEVAS - 3: 26.17 m
+ESCADA 2 - 1 -> ELEVAS - 4: 28.43 m
+ESCADA 2 - 1 -> A1 - 1: 15.23 m
+ESCADA 2 - 1 -> A1 - 2: 14.32 m
+ESCADA 2 - 1 -> A2 - 1: 5.10 m
+ESCADA 2 - 1 -> A2 - 2: 6.08 m
+
+ESCADA 2 - 2 -> PONTO INICIAL - I: 2.83 m
+ESCADA 2 - 2 -> PONTO FINAL - J: 21.93 m
+ESCADA 2 - 2 -> LAB 01 - 1: 18.60 m
+ESCADA 2 - 2 -> LAB 01 - 2: 13.04 m
+ESCADA 2 - 2 -> LAB 02: 15.00 m
+ESCADA 2 - 2 -> MESA 01 - 1: 11.18 m
+ESCADA 2 - 2 -> MESA 01 - 2: 13.15 m
+ESCADA 2 - 2 -> MESA 01 - 3: 13.60 m
+ESCADA 2 - 2 -> MESA 01 - 4: 11.70 m
+ESCADA 2 - 2 -> MESA 01 - C1 - 1: 12.08 m
+ESCADA 2 - 2 -> MESA 01 - C1 - 2: 13.00 m
+ESCADA 2 - 2 -> MESA 01 - C2 - 1: 10.77 m
+ESCADA 2 - 2 -> MESA 01 - C2 - 2: 10.44 m
+ESCADA 2 - 2 -> MESA 01 - C3 - 1: 11.18 m
+ESCADA 2 - 2 -> MESA 01 - C3 - 2: 12.17 m
+ESCADA 2 - 2 -> MESA 01 - C4 - 1: 14.56 m
+ESCADA 2 - 2 -> MESA 01 - C4 - 2: 14.32 m
+ESCADA 2 - 2 -> MESA 02 - 1: 26.17 m
+ESCADA 2 - 2 -> MESA 02 - 2: 25.50 m
+ESCADA 2 - 2 -> MESA 02 - 3: 27.02 m
+ESCADA 2 - 2 -> MESA 02 - 4: 27.66 m
+ESCADA 2 - 2 -> MESA 02 - C1 - 1: 27.66 m
+ESCADA 2 - 2 -> MESA 02 - C1 - 2: 27.02 m
+ESCADA 2 - 2 -> MESA 02 - C3 - 1: 25.46 m
+ESCADA 2 - 2 -> MESA 02 - C3 - 2: 24.76 m
+ESCADA 2 - 2 -> MESA 02 - C4 - 1: 24.84 m
+ESCADA 2 - 2 -> MESA 02 - C4 - 2: 25.61 m
+ESCADA 2 - 2 -> SALA 01 - 1: 19.92 m
+ESCADA 2 - 2 -> SALA 01 - 2: 23.60 m
+ESCADA 2 - 2 -> SALA 02 - 1: 1.00 m
+ESCADA 2 - 2 -> SALA 02 - 2: 9.00 m
+ESCADA 2 - 2 -> B. F: 18.68 m
+ESCADA 2 - 2 -> B. M: 18.25 m
+ESCADA 2 - 2 -> B. C - 1: 22.85 m
+ESCADA 2 - 2 -> B. C - 2: 23.71 m
+ESCADA 2 - 2 -> CORREDOR - 1: 10.00 m
+ESCADA 2 - 2 -> CORREDOR - 2: 8.00 m
+ESCADA 2 - 2 -> ESCADA 1 - 1: 5.00 m
+ESCADA 2 - 2 -> ESCADA 1 - 2: 4.00 m
+ESCADA 2 - 2 -> ESCADA 2 - 1: 1.00 m
+ESCADA 2 - 2 -> ESCADA 2 - 2: 0.00 m
+ESCADA 2 - 2 -> ELEVAS - 1: 30.41 m
+ESCADA 2 - 2 -> ELEVAS - 2: 28.32 m
+ESCADA 2 - 2 -> ELEVAS - 3: 26.87 m
+ESCADA 2 - 2 -> ELEVAS - 4: 29.07 m
+ESCADA 2 - 2 -> A1 - 1: 14.87 m
+ESCADA 2 - 2 -> A1 - 2: 13.93 m
+ESCADA 2 - 2 -> A2 - 1: 4.12 m
+ESCADA 2 - 2 -> A2 - 2: 5.10 m
+
+ELEVAS - 1 -> PONTO INICIAL - I: 33.24 m
+ELEVAS - 1 -> PONTO FINAL - J: 36.50 m
+ELEVAS - 1 -> LAB 01 - 1: 12.21 m
+ELEVAS - 1 -> LAB 01 - 2: 18.03 m
+ELEVAS - 1 -> LAB 02: 22.80 m
+ELEVAS - 1 -> MESA 01 - 1: 37.74 m
+ELEVAS - 1 -> MESA 01 - 2: 39.45 m
+ELEVAS - 1 -> MESA 01 - 3: 38.47 m
+ELEVAS - 1 -> MESA 01 - 4: 36.72 m
+ELEVAS - 1 -> MESA 01 - C1 - 1: 36.24 m
+ELEVAS - 1 -> MESA 01 - C1 - 2: 37.12 m
+ELEVAS - 1 -> MESA 01 - C2 - 1: 35.85 m
+ELEVAS - 1 -> MESA 01 - C2 - 2: 36.36 m
+ELEVAS - 1 -> MESA 01 - C3 - 1: 37.74 m
+ELEVAS - 1 -> MESA 01 - C3 - 2: 38.59 m
+ELEVAS - 1 -> MESA 01 - C4 - 1: 39.36 m
+ELEVAS - 1 -> MESA 01 - C4 - 2: 39.82 m
+ELEVAS - 1 -> MESA 02 - 1: 4.24 m
+ELEVAS - 1 -> MESA 02 - 2: 5.00 m
+ELEVAS - 1 -> MESA 02 - 3: 4.12 m
+ELEVAS - 1 -> MESA 02 - 4: 3.16 m
+ELEVAS - 1 -> MESA 02 - C1 - 1: 3.16 m
+ELEVAS - 1 -> MESA 02 - C1 - 2: 4.12 m
+ELEVAS - 1 -> MESA 02 - C3 - 1: 5.00 m
+ELEVAS - 1 -> MESA 02 - C3 - 2: 5.66 m
+ELEVAS - 1 -> MESA 02 - C4 - 1: 5.83 m
+ELEVAS - 1 -> MESA 02 - C4 - 2: 5.39 m
+ELEVAS - 1 -> SALA 01 - 1: 27.17 m
+ELEVAS - 1 -> SALA 01 - 2: 35.13 m
+ELEVAS - 1 -> SALA 02 - 1: 31.11 m
+ELEVAS - 1 -> SALA 02 - 2: 37.20 m
+ELEVAS - 1 -> B. F: 16.49 m
+ELEVAS - 1 -> B. M: 24.33 m
+ELEVAS - 1 -> B. C - 1: 30.02 m
+ELEVAS - 1 -> B. C - 2: 32.02 m
+ELEVAS - 1 -> CORREDOR - 1: 24.19 m
+ELEVAS - 1 -> CORREDOR - 2: 25.24 m
+ELEVAS - 1 -> ESCADA 1 - 1: 27.20 m
+ELEVAS - 1 -> ESCADA 1 - 2: 27.80 m
+ELEVAS - 1 -> ESCADA 2 - 1: 29.73 m
+ELEVAS - 1 -> ESCADA 2 - 2: 30.41 m
+ELEVAS - 1 -> ELEVAS - 1: 0.00 m
+ELEVAS - 1 -> ELEVAS - 2: 3.00 m
+ELEVAS - 1 -> ELEVAS - 3: 3.61 m
+ELEVAS - 1 -> ELEVAS - 4: 2.00 m
+ELEVAS - 1 -> A1 - 1: 27.20 m
+ELEVAS - 1 -> A1 - 2: 27.51 m
+ELEVAS - 1 -> A2 - 1: 33.97 m
+ELEVAS - 1 -> A2 - 2: 34.71 m
+
+ELEVAS - 2 -> PONTO INICIAL - I: 31.14 m
+ELEVAS - 2 -> PONTO FINAL - J: 36.12 m
+ELEVAS - 2 -> LAB 01 - 1: 10.77 m
+ELEVAS - 2 -> LAB 01 - 2: 15.62 m
+ELEVAS - 2 -> LAB 02: 19.92 m
+ELEVAS - 2 -> MESA 01 - 1: 36.24 m
+ELEVAS - 2 -> MESA 01 - 2: 38.01 m
+ELEVAS - 2 -> MESA 01 - 3: 37.16 m
+ELEVAS - 2 -> MESA 01 - 4: 35.34 m
+ELEVAS - 2 -> MESA 01 - C1 - 1: 34.93 m
+ELEVAS - 2 -> MESA 01 - C1 - 2: 35.85 m
+ELEVAS - 2 -> MESA 01 - C2 - 1: 34.44 m
+ELEVAS - 2 -> MESA 01 - C2 - 2: 34.89 m
+ELEVAS - 2 -> MESA 01 - C3 - 1: 36.24 m
+ELEVAS - 2 -> MESA 01 - C3 - 2: 37.12 m
+ELEVAS - 2 -> MESA 01 - C4 - 1: 38.08 m
+ELEVAS - 2 -> MESA 01 - C4 - 2: 38.48 m
+ELEVAS - 2 -> MESA 02 - 1: 3.00 m
+ELEVAS - 2 -> MESA 02 - 2: 4.00 m
+ELEVAS - 2 -> MESA 02 - 3: 4.47 m
+ELEVAS - 2 -> MESA 02 - 4: 3.61 m
+ELEVAS - 2 -> MESA 02 - C1 - 1: 3.61 m
+ELEVAS - 2 -> MESA 02 - C1 - 2: 4.47 m
+ELEVAS - 2 -> MESA 02 - C3 - 1: 3.16 m
+ELEVAS - 2 -> MESA 02 - C3 - 2: 4.12 m
+ELEVAS - 2 -> MESA 02 - C4 - 1: 5.00 m
+ELEVAS - 2 -> MESA 02 - C4 - 2: 5.10 m
+ELEVAS - 2 -> SALA 01 - 1: 27.00 m
+ELEVAS - 2 -> SALA 01 - 2: 35.00 m
+ELEVAS - 2 -> SALA 02 - 1: 29.07 m
+ELEVAS - 2 -> SALA 02 - 2: 35.51 m
+ELEVAS - 2 -> B. F: 16.03 m
+ELEVAS - 2 -> B. M: 24.02 m
+ELEVAS - 2 -> B. C - 1: 30.07 m
+ELEVAS - 2 -> B. C - 2: 32.06 m
+ELEVAS - 2 -> CORREDOR - 1: 22.85 m
+ELEVAS - 2 -> CORREDOR - 2: 23.71 m
+ELEVAS - 2 -> ESCADA 1 - 1: 24.84 m
+ELEVAS - 2 -> ESCADA 1 - 2: 25.50 m
+ELEVAS - 2 -> ESCADA 2 - 1: 27.59 m
+ELEVAS - 2 -> ESCADA 2 - 2: 28.32 m
+ELEVAS - 2 -> ELEVAS - 1: 3.00 m
+ELEVAS - 2 -> ELEVAS - 2: 0.00 m
+ELEVAS - 2 -> ELEVAS - 3: 2.00 m
+ELEVAS - 2 -> ELEVAS - 4: 3.61 m
+ELEVAS - 2 -> A1 - 1: 26.48 m
+ELEVAS - 2 -> A1 - 2: 26.68 m
+ELEVAS - 2 -> A2 - 1: 32.02 m
+ELEVAS - 2 -> A2 - 2: 32.80 m
+
+ELEVAS - 3 -> PONTO INICIAL - I: 29.70 m
+ELEVAS - 3 -> PONTO FINAL - J: 34.13 m
+ELEVAS - 3 -> LAB 01 - 1: 8.94 m
+ELEVAS - 3 -> LAB 01 - 2: 14.42 m
+ELEVAS - 3 -> LAB 02: 19.42 m
+ELEVAS - 3 -> MESA 01 - 1: 34.48 m
+ELEVAS - 3 -> MESA 01 - 2: 36.24 m
+ELEVAS - 3 -> MESA 01 - 3: 35.34 m
+ELEVAS - 3 -> MESA 01 - 4: 33.54 m
+ELEVAS - 3 -> MESA 01 - C1 - 1: 33.11 m
+ELEVAS - 3 -> MESA 01 - C1 - 2: 34.01 m
+ELEVAS - 3 -> MESA 01 - C2 - 1: 32.65 m
+ELEVAS - 3 -> MESA 01 - C2 - 2: 33.12 m
+ELEVAS - 3 -> MESA 01 - C3 - 1: 34.48 m
+ELEVAS - 3 -> MESA 01 - C3 - 2: 35.36 m
+ELEVAS - 3 -> MESA 01 - C4 - 1: 36.25 m
+ELEVAS - 3 -> MESA 01 - C4 - 2: 36.67 m
+ELEVAS - 3 -> MESA 02 - 1: 1.00 m
+ELEVAS - 3 -> MESA 02 - 2: 2.00 m
+ELEVAS - 3 -> MESA 02 - 3: 2.83 m
+ELEVAS - 3 -> MESA 02 - 4: 2.24 m
+ELEVAS - 3 -> MESA 02 - C1 - 1: 2.24 m
+ELEVAS - 3 -> MESA 02 - C1 - 2: 2.83 m
+ELEVAS - 3 -> MESA 02 - C3 - 1: 1.41 m
+ELEVAS - 3 -> MESA 02 - C3 - 2: 2.24 m
+ELEVAS - 3 -> MESA 02 - C4 - 1: 3.00 m
+ELEVAS - 3 -> MESA 02 - C4 - 2: 3.16 m
+ELEVAS - 3 -> SALA 01 - 1: 25.00 m
+ELEVAS - 3 -> SALA 01 - 2: 33.00 m
+ELEVAS - 3 -> SALA 02 - 1: 27.59 m
+ELEVAS - 3 -> SALA 02 - 2: 33.84 m
+ELEVAS - 3 -> B. F: 14.04 m
+ELEVAS - 3 -> B. M: 22.02 m
+ELEVAS - 3 -> B. C - 1: 28.07 m
+ELEVAS - 3 -> B. C - 2: 30.07 m
+ELEVAS - 3 -> CORREDOR - 1: 21.02 m
+ELEVAS - 3 -> CORREDOR - 2: 21.95 m
+ELEVAS - 3 -> ESCADA 1 - 1: 23.60 m
+ELEVAS - 3 -> ESCADA 1 - 2: 24.21 m
+ELEVAS - 3 -> ESCADA 2 - 1: 26.17 m
+ELEVAS - 3 -> ESCADA 2 - 2: 26.87 m
+ELEVAS - 3 -> ELEVAS - 1: 3.61 m
+ELEVAS - 3 -> ELEVAS - 2: 2.00 m
+ELEVAS - 3 -> ELEVAS - 3: 0.00 m
+ELEVAS - 3 -> ELEVAS - 4: 3.00 m
+ELEVAS - 3 -> A1 - 1: 24.52 m
+ELEVAS - 3 -> A1 - 2: 24.74 m
+ELEVAS - 3 -> A2 - 1: 30.48 m
+ELEVAS - 3 -> A2 - 2: 31.24 m
+
+ELEVAS - 4 -> PONTO INICIAL - I: 31.89 m
+ELEVAS - 4 -> PONTO FINAL - J: 34.53 m
+ELEVAS - 4 -> LAB 01 - 1: 10.63 m
+ELEVAS - 4 -> LAB 01 - 2: 17.00 m
+ELEVAS - 4 -> LAB 02: 22.36 m
+ELEVAS - 4 -> MESA 01 - 1: 36.06 m
+ELEVAS - 4 -> MESA 01 - 2: 37.74 m
+ELEVAS - 4 -> MESA 01 - 3: 36.72 m
+ELEVAS - 4 -> MESA 01 - 4: 34.99 m
+ELEVAS - 4 -> MESA 01 - C1 - 1: 34.48 m
+ELEVAS - 4 -> MESA 01 - C1 - 2: 35.36 m
+ELEVAS - 4 -> MESA 01 - C2 - 1: 34.13 m
+ELEVAS - 4 -> MESA 01 - C2 - 2: 34.67 m
+ELEVAS - 4 -> MESA 01 - C3 - 1: 36.06 m
+ELEVAS - 4 -> MESA 01 - C3 - 2: 36.89 m
+ELEVAS - 4 -> MESA 01 - C4 - 1: 37.59 m
+ELEVAS - 4 -> MESA 01 - C4 - 2: 38.08 m
+ELEVAS - 4 -> MESA 02 - 1: 3.16 m
+ELEVAS - 4 -> MESA 02 - 2: 3.61 m
+ELEVAS - 4 -> MESA 02 - 3: 2.24 m
+ELEVAS - 4 -> MESA 02 - 4: 1.41 m
+ELEVAS - 4 -> MESA 02 - C1 - 1: 1.41 m
+ELEVAS - 4 -> MESA 02 - C1 - 2: 2.24 m
+ELEVAS - 4 -> MESA 02 - C3 - 1: 4.12 m
+ELEVAS - 4 -> MESA 02 - C3 - 2: 4.47 m
+ELEVAS - 4 -> MESA 02 - C4 - 1: 4.24 m
+ELEVAS - 4 -> MESA 02 - C4 - 2: 3.61 m
+ELEVAS - 4 -> SALA 01 - 1: 25.18 m
+ELEVAS - 4 -> SALA 01 - 2: 33.14 m
+ELEVAS - 4 -> SALA 02 - 1: 29.73 m
+ELEVAS - 4 -> SALA 02 - 2: 35.61 m
+ELEVAS - 4 -> B. F: 14.56 m
+ELEVAS - 4 -> B. M: 22.36 m
+ELEVAS - 4 -> B. C - 1: 28.02 m
+ELEVAS - 4 -> B. C - 2: 30.02 m
+ELEVAS - 4 -> CORREDOR - 1: 22.47 m
+ELEVAS - 4 -> CORREDOR - 2: 23.60 m
+ELEVAS - 4 -> ESCADA 1 - 1: 26.08 m
+ELEVAS - 4 -> ESCADA 1 - 2: 26.63 m
+ELEVAS - 4 -> ESCADA 2 - 1: 28.43 m
+ELEVAS - 4 -> ESCADA 2 - 2: 29.07 m
+ELEVAS - 4 -> ELEVAS - 1: 2.00 m
+ELEVAS - 4 -> ELEVAS - 2: 3.61 m
+ELEVAS - 4 -> ELEVAS - 3: 3.00 m
+ELEVAS - 4 -> ELEVAS - 4: 0.00 m
+ELEVAS - 4 -> A1 - 1: 25.30 m
+ELEVAS - 4 -> A1 - 2: 25.63 m
+ELEVAS - 4 -> A2 - 1: 32.53 m
+ELEVAS - 4 -> A2 - 2: 33.24 m
+
+A1 - 1 -> PONTO INICIAL - I: 16.28 m
+A1 - 1 -> PONTO FINAL - J: 10.20 m
+A1 - 1 -> LAB 01 - 1: 16.03 m
+A1 - 1 -> LAB 01 - 2: 17.46 m
+A1 - 1 -> LAB 02: 24.41 m
+A1 - 1 -> MESA 01 - 1: 13.42 m
+A1 - 1 -> MESA 01 - 2: 14.42 m
+A1 - 1 -> MESA 01 - 3: 12.81 m
+A1 - 1 -> MESA 01 - 4: 11.66 m
+A1 - 1 -> MESA 01 - C1 - 1: 10.82 m
+A1 - 1 -> MESA 01 - C1 - 2: 11.40 m
+A1 - 1 -> MESA 01 - C2 - 1: 11.18 m
+A1 - 1 -> MESA 01 - C2 - 2: 12.08 m
+A1 - 1 -> MESA 01 - C3 - 1: 13.42 m
+A1 - 1 -> MESA 01 - C3 - 2: 13.89 m
+A1 - 1 -> MESA 01 - C4 - 1: 13.45 m
+A1 - 1 -> MESA 01 - C4 - 2: 14.21 m
+A1 - 1 -> MESA 02 - 1: 23.54 m
+A1 - 1 -> MESA 02 - 2: 22.56 m
+A1 - 1 -> MESA 02 - 3: 23.09 m
+A1 - 1 -> MESA 02 - 4: 24.04 m
+A1 - 1 -> MESA 02 - C1 - 1: 24.04 m
+A1 - 1 -> MESA 02 - C1 - 2: 23.09 m
+A1 - 1 -> MESA 02 - C3 - 1: 23.35 m
+A1 - 1 -> MESA 02 - C3 - 2: 22.36 m
+A1 - 1 -> MESA 02 - C4 - 1: 21.59 m
+A1 - 1 -> MESA 02 - C4 - 2: 21.84 m
+A1 - 1 -> SALA 01 - 1: 5.10 m
+A1 - 1 -> SALA 01 - 2: 10.30 m
+A1 - 1 -> SALA 02 - 1: 14.56 m
+A1 - 1 -> SALA 02 - 2: 14.56 m
+A1 - 1 -> B. F: 10.77 m
+A1 - 1 -> B. M: 4.47 m
+A1 - 1 -> B. C - 1: 8.06 m
+A1 - 1 -> B. C - 2: 9.22 m
+A1 - 1 -> CORREDOR - 1: 6.40 m
+A1 - 1 -> CORREDOR - 2: 7.81 m
+A1 - 1 -> ESCADA 1 - 1: 17.20 m
+A1 - 1 -> ESCADA 1 - 2: 16.64 m
+A1 - 1 -> ESCADA 2 - 1: 15.23 m
+A1 - 1 -> ESCADA 2 - 2: 14.87 m
+A1 - 1 -> ELEVAS - 1: 27.20 m
+A1 - 1 -> ELEVAS - 2: 26.48 m
+A1 - 1 -> ELEVAS - 3: 24.52 m
+A1 - 1 -> ELEVAS - 4: 25.30 m
+A1 - 1 -> A1 - 1: 0.00 m
+A1 - 1 -> A1 - 2: 1.00 m
+A1 - 1 -> A2 - 1: 15.03 m
+A1 - 1 -> A2 - 2: 15.00 m
+
+A1 - 2 -> PONTO INICIAL - I: 15.30 m
+A1 - 2 -> PONTO FINAL - J: 10.44 m
+A1 - 2 -> LAB 01 - 1: 16.12 m
+A1 - 2 -> LAB 01 - 2: 17.09 m
+A1 - 2 -> LAB 02: 23.85 m
+A1 - 2 -> MESA 01 - 1: 12.53 m
+A1 - 2 -> MESA 01 - 2: 13.60 m
+A1 - 2 -> MESA 01 - 3: 12.04 m
+A1 - 2 -> MESA 01 - 4: 10.82 m
+A1 - 2 -> MESA 01 - C1 - 1: 10.00 m
+A1 - 2 -> MESA 01 - C1 - 2: 10.63 m
+A1 - 2 -> MESA 01 - C2 - 1: 10.30 m
+A1 - 2 -> MESA 01 - C2 - 2: 11.18 m
+A1 - 2 -> MESA 01 - C3 - 1: 12.53 m
+A1 - 2 -> MESA 01 - C3 - 2: 13.04 m
+A1 - 2 -> MESA 01 - C4 - 1: 12.73 m
+A1 - 2 -> MESA 01 - C4 - 2: 13.45 m
+A1 - 2 -> MESA 02 - 1: 23.77 m
+A1 - 2 -> MESA 02 - 2: 22.80 m
+A1 - 2 -> MESA 02 - 3: 23.41 m
+A1 - 2 -> MESA 02 - 4: 24.35 m
+A1 - 2 -> MESA 02 - C1 - 1: 24.35 m
+A1 - 2 -> MESA 02 - C1 - 2: 23.41 m
+A1 - 2 -> MESA 02 - C3 - 1: 23.54 m
+A1 - 2 -> MESA 02 - C3 - 2: 22.56 m
+A1 - 2 -> MESA 02 - C4 - 1: 21.84 m
+A1 - 2 -> MESA 02 - C4 - 2: 22.14 m
+A1 - 2 -> SALA 01 - 1: 6.08 m
+A1 - 2 -> SALA 01 - 2: 10.82 m
+A1 - 2 -> SALA 02 - 1: 13.60 m
+A1 - 2 -> SALA 02 - 2: 13.60 m
+A1 - 2 -> B. F: 11.18 m
+A1 - 2 -> B. M: 5.39 m
+A1 - 2 -> B. C - 1: 8.94 m
+A1 - 2 -> B. C - 2: 10.00 m
+A1 - 2 -> CORREDOR - 1: 5.83 m
+A1 - 2 -> CORREDOR - 2: 7.07 m
+A1 - 2 -> ESCADA 1 - 1: 16.40 m
+A1 - 2 -> ESCADA 1 - 2: 15.81 m
+A1 - 2 -> ESCADA 2 - 1: 14.32 m
+A1 - 2 -> ESCADA 2 - 2: 13.93 m
+A1 - 2 -> ELEVAS - 1: 27.51 m
+A1 - 2 -> ELEVAS - 2: 26.68 m
+A1 - 2 -> ELEVAS - 3: 24.74 m
+A1 - 2 -> ELEVAS - 4: 25.63 m
+A1 - 2 -> A1 - 1: 1.00 m
+A1 - 2 -> A1 - 2: 0.00 m
+A1 - 2 -> A2 - 1: 14.04 m
+A1 - 2 -> A2 - 2: 14.00 m
+
+A2 - 1 -> PONTO INICIAL - I: 2.24 m
+A2 - 1 -> PONTO FINAL - J: 20.25 m
+A2 - 1 -> LAB 01 - 1: 21.93 m
+A2 - 1 -> LAB 01 - 2: 17.00 m
+A2 - 1 -> LAB 02: 19.03 m
+A2 - 1 -> MESA 01 - 1: 7.62 m
+A2 - 1 -> MESA 01 - 2: 9.49 m
+A2 - 1 -> MESA 01 - 3: 10.30 m
+A2 - 1 -> MESA 01 - 4: 8.60 m
+A2 - 1 -> MESA 01 - C1 - 1: 9.22 m
+A2 - 1 -> MESA 01 - C1 - 2: 10.00 m
+A2 - 1 -> MESA 01 - C2 - 1: 7.81 m
+A2 - 1 -> MESA 01 - C2 - 2: 7.21 m
+A2 - 1 -> MESA 01 - C3 - 1: 7.62 m
+A2 - 1 -> MESA 01 - C3 - 2: 8.54 m
+A2 - 1 -> MESA 01 - C4 - 1: 11.18 m
+A2 - 1 -> MESA 01 - C4 - 2: 10.77 m
+A2 - 1 -> MESA 02 - 1: 29.73 m
+A2 - 1 -> MESA 02 - 2: 29.00 m
+A2 - 1 -> MESA 02 - 3: 30.41 m
+A2 - 1 -> MESA 02 - 4: 31.11 m
+A2 - 1 -> MESA 02 - C1 - 1: 31.11 m
+A2 - 1 -> MESA 02 - C1 - 2: 30.41 m
+A2 - 1 -> MESA 02 - C3 - 1: 29.07 m
+A2 - 1 -> MESA 02 - C3 - 2: 28.32 m
+A2 - 1 -> MESA 02 - C4 - 1: 28.28 m
+A2 - 1 -> MESA 02 - C4 - 2: 29.00 m
+A2 - 1 -> SALA 01 - 1: 20.10 m
+A2 - 1 -> SALA 01 - 2: 22.36 m
+A2 - 1 -> SALA 02 - 1: 3.16 m
+A2 - 1 -> SALA 02 - 2: 5.10 m
+A2 - 1 -> B. F: 21.02 m
+A2 - 1 -> B. M: 19.03 m
+A2 - 1 -> B. C - 1: 22.56 m
+A2 - 1 -> B. C - 2: 23.09 m
+A2 - 1 -> CORREDOR - 1: 11.70 m
+A2 - 1 -> CORREDOR - 2: 9.85 m
+A2 - 1 -> ESCADA 1 - 1: 9.06 m
+A2 - 1 -> ESCADA 1 - 2: 8.06 m
+A2 - 1 -> ESCADA 2 - 1: 5.10 m
+A2 - 1 -> ESCADA 2 - 2: 4.12 m
+A2 - 1 -> ELEVAS - 1: 33.97 m
+A2 - 1 -> ELEVAS - 2: 32.02 m
+A2 - 1 -> ELEVAS - 3: 30.48 m
+A2 - 1 -> ELEVAS - 4: 32.53 m
+A2 - 1 -> A1 - 1: 15.03 m
+A2 - 1 -> A1 - 2: 14.04 m
+A2 - 1 -> A2 - 1: 0.00 m
+A2 - 1 -> A2 - 2: 1.00 m
+
+A2 - 2 -> PONTO INICIAL - I: 3.16 m
+A2 - 2 -> PONTO FINAL - J: 19.72 m
+A2 - 2 -> LAB 01 - 1: 22.63 m
+A2 - 2 -> LAB 01 - 2: 17.89 m
+A2 - 2 -> LAB 02: 20.02 m
+A2 - 2 -> MESA 01 - 1: 6.71 m
+A2 - 2 -> MESA 01 - 2: 8.54 m
+A2 - 2 -> MESA 01 - 3: 9.43 m
+A2 - 2 -> MESA 01 - 4: 7.81 m
+A2 - 2 -> MESA 01 - C1 - 1: 8.49 m
+A2 - 2 -> MESA 01 - C1 - 2: 9.22 m
+A2 - 2 -> MESA 01 - C2 - 1: 7.07 m
+A2 - 2 -> MESA 01 - C2 - 2: 6.40 m
+A2 - 2 -> MESA 01 - C3 - 1: 6.71 m
+A2 - 2 -> MESA 01 - C3 - 2: 7.62 m
+A2 - 2 -> MESA 01 - C4 - 1: 10.30 m
+A2 - 2 -> MESA 01 - C4 - 2: 9.85 m
+A2 - 2 -> MESA 02 - 1: 30.48 m
+A2 - 2 -> MESA 02 - 2: 29.73 m
+A2 - 2 -> MESA 02 - 3: 31.11 m
+A2 - 2 -> MESA 02 - 4: 31.83 m
+A2 - 2 -> MESA 02 - C1 - 1: 31.83 m
+A2 - 2 -> MESA 02 - C1 - 2: 31.11 m
+A2 - 2 -> MESA 02 - C3 - 1: 29.83 m
+A2 - 2 -> MESA 02 - C3 - 2: 29.07 m
+A2 - 2 -> MESA 02 - C4 - 1: 29.00 m
+A2 - 2 -> MESA 02 - C4 - 2: 29.70 m
+A2 - 2 -> SALA 01 - 1: 20.02 m
+A2 - 2 -> SALA 01 - 2: 21.93 m
+A2 - 2 -> SALA 02 - 1: 4.12 m
+A2 - 2 -> SALA 02 - 2: 4.12 m
+A2 - 2 -> B. F: 21.47 m
+A2 - 2 -> B. M: 19.10 m
+A2 - 2 -> B. C - 1: 22.36 m
+A2 - 2 -> B. C - 2: 22.80 m
+A2 - 2 -> CORREDOR - 1: 12.08 m
+A2 - 2 -> CORREDOR - 2: 10.30 m
+A2 - 2 -> ESCADA 1 - 1: 10.05 m
+A2 - 2 -> ESCADA 1 - 2: 9.06 m
+A2 - 2 -> ESCADA 2 - 1: 6.08 m
+A2 - 2 -> ESCADA 2 - 2: 5.10 m
+A2 - 2 -> ELEVAS - 1: 34.71 m
+A2 - 2 -> ELEVAS - 2: 32.80 m
+A2 - 2 -> ELEVAS - 3: 31.24 m
+A2 - 2 -> ELEVAS - 4: 33.24 m
+A2 - 2 -> A1 - 1: 15.00 m
+A2 - 2 -> A1 - 2: 14.00 m
+A2 - 2 -> A2 - 1: 1.00 m
+A2 - 2 -> A2 - 2: 0.00 m
+
